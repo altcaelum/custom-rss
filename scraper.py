@@ -48,7 +48,7 @@ with sync_playwright() as p:
             timeout=60000
         )
 
-        page.wait_for_timeout(5000)
+        page.wait_for_timeout(1500)
 
         links=page.locator("a").evaluate_all("""
         els => els.map(e=>({
@@ -82,7 +82,7 @@ with sync_playwright() as p:
         fg.link(href=s["url"])
         fg.description(s["name"])
 
-        for item in unique[:20]:
+        for item in unique[:8]:
 
             try:
 
@@ -94,7 +94,7 @@ with sync_playwright() as p:
                     timeout=30000
                 )
 
-                article.wait_for_timeout(3000)
+                article.wait_for_timeout(1000)
 
                 text=article.locator("body").inner_text()
 
