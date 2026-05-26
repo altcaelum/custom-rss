@@ -46,31 +46,25 @@ with sync_playwright() as p:
 
         items = page.locator("a").evaluate_all("""
         els => els.map(e => ({
-
-            title: e.innerText.trim(),
-            href: e.href,
-
-            image:
-                e.querySelector("img")?.src || "",
-
-            description:
-                e.parentElement?.innerText || ""
-
+            title:e.innerText.trim(),
+            href:e.href,
+            image:e.querySelector("img")?.src || "",
+            text:e.parentElement?.innerText || ""
         }))
         """)
 
-        filtered = []
-        seen = set()
+        filtered=[]
+        seen=set()
 
         for item in items:
 
-            title = item["title"].strip().lower()
-            href = item["href"]
+            title=item["title"].strip().lower()
+            href=item["href"]
 
             if not title:
                 continue
 
-            if len(title) < 10:
+            if len(title)<10:
                 continue
 
             if href in seen:
@@ -93,7 +87,7 @@ with sync_playwright() as p:
             seen.add(href)
             filtered.append(item)
 
-        fg = FeedGenerator()
+        fg=FeedGenerator()
 
         fg.title(s["name"])
         fg.link(href=s["url"])
@@ -103,31 +97,24 @@ with sync_playwright() as p:
 
         for item in filtered[:25]:
 
-            entry = fg.add_entry()
+            entry=fg.add_entry()
 
+            entry.guid(item["href"])
             entry.title(item["title"])
+            entry.link(href=item["href"])
+            entry.pubDate(datetime.now(UTC))
 
-            entry.link(
-                href=item["href"]
-            )
-
-            entry.guid(
-                item["href"]
-            )
-
-            entry.description(
-                item["description"][:500]
-            )
+            html=""
 
             if item["image"]:
-                entry.enclosure(
-                    item["image"],
-                    0,
-                    "image/jpeg"
-                )
+                html += f'<img src="{item["image"]}"><br><br>'
 
-            entry.pubDate(
-                datetime.now(UTC)
+            html += f"<p>{item['text']}</p>"
+
+            entry.description(item["text"])
+            entry.content(
+                html,
+                type="CDATA"
             )
 
         fg.rss_file(
