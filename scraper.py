@@ -4,18 +4,18 @@ from datetime import datetime, UTC
 
 sites = [
     {
-        "name": "deziiign",
-        "url": "https://deziiign.com/",
-        "feed": "deziiign.xml"
+        "name":"deziiign",
+        "url":"https://deziiign.com/",
+        "feed":"deziiign.xml"
     },
     {
-        "name": "mediiia",
-        "url": "https://mediiia.com/",
-        "feed": "mediiia.xml"
+        "name":"mediiia",
+        "url":"https://mediiia.com/",
+        "feed":"mediiia.xml"
     }
 ]
 
-BLACKLIST = [
+BLACKLIST=[
     "tags",
     "blogs",
     "awards",
@@ -31,8 +31,9 @@ BLACKLIST = [
 
 with sync_playwright() as p:
 
-    browser = p.chromium.launch()
-    page = browser.new_page()
+    browser=p.chromium.launch()
+
+    page=browser.new_page()
 
     for s in sites:
 
@@ -44,78 +45,90 @@ with sync_playwright() as p:
 
         page.wait_for_timeout(5000)
 
-        items = page.locator("a").evaluate_all("""
-        els => els.map(e => ({
+        links=page.locator("a").evaluate_all("""
+        els => els.map(e=>({
             title:e.innerText.trim(),
-            href:e.href,
-            image:e.querySelector("img")?.src || "",
-            text:e.parentElement?.innerText || ""
+            href:e.href
         }))
         """)
 
-        filtered=[]
+        unique=[]
         seen=set()
 
-        for item in items:
+        for item in links:
 
-            title=item["title"].strip().lower()
-            href=item["href"]
-
-            if not title:
-                continue
+            title=item["title"].lower()
 
             if len(title)<10:
                 continue
 
-            if href in seen:
+            if item["href"] in seen:
                 continue
 
             if title in BLACKLIST:
                 continue
 
-            if any(x in href.lower() for x in [
-                "/tags",
-                "/awards",
-                "/residents",
-                "/education",
-                "/themes",
-                "/marketplace",
-                "/magistracy"
-            ]):
-                continue
-
-            seen.add(href)
-            filtered.append(item)
+            seen.add(item["href"])
+            unique.append(item)
 
         fg=FeedGenerator()
 
         fg.title(s["name"])
         fg.link(href=s["url"])
-        fg.description(
-            f"Custom RSS for {s['name']}"
-        )
+        fg.description(s["name"])
 
-        for item in filtered[:25]:
+        for item in unique[:20]:
 
-            entry=fg.add_entry()
+            try:
 
-            entry.guid(item["href"])
-            entry.title(item["title"])
-            entry.link(href=item["href"])
-            entry.pubDate(datetime.now(UTC))
+                article=browser.new_page()
 
-            html=""
+                article.goto(
+                    item["href"],
+                    wait_until="domcontentloaded",
+                    timeout=30000
+                )
 
-            if item["image"]:
-                html += f'<img src="{item["image"]}"><br><br>'
+                article.wait_for_timeout(3000)
 
-            html += f"<p>{item['text']}</p>"
+                text=article.locator("body").inner_text()
 
-            entry.description(item["text"])
-            entry.content(
-                html,
-                type="CDATA"
-            )
+                image=""
+
+                imgs=article.locator("img")
+
+                if imgs.count()>0:
+                    image=imgs.nth(0).get_attribute("src") or ""
+
+                html=""
+
+                if image:
+                    html += f'<img src="{image}"><br><br>'
+
+                html += f"<p>{text[:3000]}</p>"
+
+                entry=fg.add_entry()
+
+                entry.title(item["title"])
+                entry.guid(item["href"])
+                entry.link(href=item["href"])
+
+                entry.description(
+                    text[:500]
+                )
+
+                entry.content(
+                    html
+                )
+
+                entry.pubDate(
+                    datetime.now(UTC)
+                )
+
+                article.close()
+
+            except:
+                pass
 
         fg.rss_file(
             s["feed"]
