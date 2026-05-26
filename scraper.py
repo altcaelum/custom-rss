@@ -12,7 +12,8 @@ with sync_playwright() as p:
     page=browser.new_page()
 
     for s in sites:
-        page.goto(s["url"], wait_until="networkidle")
+        page.goto(s["url"], wait_until="domcontentloaded", timeout=60000)
+page.wait_for_timeout(5000)
 
         links=page.locator("a").evaluate_all(
         '''els=>els.map(e=>({
