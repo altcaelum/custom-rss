@@ -12,11 +12,6 @@ sites = [
         "name":"mediiia",
         "url":"https://mediiia.com/",
         "feed":"mediiia.xml"
-    },
-    {
-        "name":"mediiia-books",
-        "url":"https://mediiia.com/books",
-        "feed":"mediiia-books.xml"
     }
 ]
 
@@ -48,7 +43,7 @@ with sync_playwright() as p:
             timeout=60000
         )
 
-        page.wait_for_timeout(1500)
+        page.wait_for_timeout(5000)
 
         links=page.locator("a").evaluate_all("""
         els => els.map(e=>({
@@ -82,7 +77,7 @@ with sync_playwright() as p:
         fg.link(href=s["url"])
         fg.description(s["name"])
 
-        for item in unique[:8]:
+        for item in unique[:20]:
 
             try:
 
@@ -94,7 +89,7 @@ with sync_playwright() as p:
                     timeout=30000
                 )
 
-                article.wait_for_timeout(1000)
+                article.wait_for_timeout(3000)
 
                 text=article.locator("body").inner_text()
 
