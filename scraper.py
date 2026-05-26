@@ -15,11 +15,27 @@ sites = [
     }
 ]
 
+BLACKLIST = [
+    "tags",
+    "blogs",
+    "awards",
+    "residents",
+    "education",
+    "competencies",
+    "contact us",
+    "marketplace",
+    "dafes awards",
+    "magistracy",
+    "themes"
+]
+
 with sync_playwright() as p:
+
     browser = p.chromium.launch()
     page = browser.new_page()
 
     for s in sites:
+
         page.goto(
             s["url"],
             wait_until="domcontentloaded",
@@ -28,60 +44,94 @@ with sync_playwright() as p:
 
         page.wait_for_timeout(5000)
 
-        links = page.locator("a").evaluate_all("""
-        els => els
-        .map(e => ({
+        items = page.locator("a").evaluate_all("""
+        els => els.map(e => ({
+
             title: e.innerText.trim(),
-            href: e.href
+            href: e.href,
+
+            image:
+                e.querySelector("img")?.src || "",
+
+            description:
+                e.parentElement?.innerText || ""
+
         }))
-        .filter(x =>
-            x.title &&
-            x.href &&
-            x.title.length > 10 &&
+        """)
 
-            ![
-                "tags",
-                "blogs",
-                "awards",
-                "residents",
-                "education",
-                "competencies",
-                "contact us",
-                "marketplace",
-                "dafes awards",
-                "magistracy",
-                "themes"
-            ].includes(x.title.toLowerCase()) &&
-
-            !x.href.includes("/tags") &&
-            !x.href.includes("/residents") &&
-            !x.href.includes("/awards") &&
-            !x.href.includes("/education") &&
-            !x.href.includes("/marketplace") &&
-            !x.href.includes("/themes") &&
-            !x.href.includes("/magistracy")
-        )
-        """)[:30]
-
-        fg = FeedGenerator()
-        fg.title(s["name"])
-        fg.link(href=s["url"])
-        fg.description(f"Generated feed for {s['name']}")
-
+        filtered = []
         seen = set()
 
-        for item in links:
-            if item["href"] in seen:
+        for item in items:
+
+            title = item["title"].strip().lower()
+            href = item["href"]
+
+            if not title:
                 continue
 
-            seen.add(item["href"])
+            if len(title) < 10:
+                continue
+
+            if href in seen:
+                continue
+
+            if title in BLACKLIST:
+                continue
+
+            if any(x in href.lower() for x in [
+                "/tags",
+                "/awards",
+                "/residents",
+                "/education",
+                "/themes",
+                "/marketplace",
+                "/magistracy"
+            ]):
+                continue
+
+            seen.add(href)
+            filtered.append(item)
+
+        fg = FeedGenerator()
+
+        fg.title(s["name"])
+        fg.link(href=s["url"])
+        fg.description(
+            f"Custom RSS for {s['name']}"
+        )
+
+        for item in filtered[:25]:
 
             entry = fg.add_entry()
-            entry.title(item["title"])
-            entry.link(href=item["href"])
-            entry.guid(item["href"])
-            entry.pubDate(datetime.now(UTC))
 
-        fg.rss_file(s["feed"])
+            entry.title(item["title"])
+
+            entry.link(
+                href=item["href"]
+            )
+
+            entry.guid(
+                item["href"]
+            )
+
+            entry.description(
+                item["description"][:500]
+            )
+
+            if item["image"]:
+                entry.enclosure(
+                    item["image"],
+                    0,
+                    "image/jpeg"
+                )
+
+            entry.pubDate(
+                datetime.now(UTC)
+            )
+
+        fg.rss_file(
+            s["feed"]
+        )
 
     browser.close()
