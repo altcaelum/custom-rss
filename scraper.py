@@ -1,6 +1,6 @@
 from playwright.sync_api import sync_playwright
 from feedgen.feed import FeedGenerator
-from datetime import datetime
+from datetime import datetime, UTC
 
 sites = [
     {
@@ -45,7 +45,7 @@ with sync_playwright() as p:
             entry.title(item["title"])
             entry.link(href=item["href"])
             entry.guid(item["href"])
-            entry.pubDate(datetime.utcnow())
+            entry.pubDate(datetime.now(UTC))
 
         fg.rss_file(s["feed"])
 
