@@ -12,6 +12,11 @@ sites = [
         "name":"mediiia",
         "url":"https://mediiia.com/",
         "feed":"mediiia.xml"
+    },
+    {
+        "name":"mediiia-books",
+        "url":"https://mediiia.com/books",
+        "feed":"mediiia-books.xml"
     }
 ]
 
