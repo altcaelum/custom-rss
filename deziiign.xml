@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>deziiign</title><link>https://deziiign.com/</link><description>deziiign</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 05 Jul 2026 06:36:32 +0000</lastBuildDate><item><title>Anna Leonteva</title><link>https://deziiign.com/account/anna-leonteva-53d7789c97274bb0846f4e6edf230d1b</link><description>deziiign
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>deziiign</title><link>https://deziiign.com/</link><description>deziiign</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 05 Jul 2026 09:38:58 +0000</lastBuildDate><item><title>Anna Leonteva</title><link>https://deziiign.com/account/anna-leonteva-53d7789c97274bb0846f4e6edf230d1b</link><description>deziiign
 portfolio
 competencies
 tags
@@ -18,14 +18,23 @@ RU
 EN
 Create project
 Login
-Loading...
+Anna Leonteva
+тгк: @itsannlyone
+art.mediiia
+hsedesign
+projects | 22
+books | 1
+subscriptions
+awards | 12
+sort by
+actual
 © «BRND-RU» LLC 2022-2026
 privacy policy
 legal documents
 contact us
 made by mediiia
 ↗
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more</description><content:encoded>&lt;p&gt;deziiign
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on t</description><content:encoded>&lt;p&gt;deziiign
 portfolio
 competencies
 tags
@@ -44,14 +53,23 @@ RU
 EN
 Create project
 Login
-Loading...
+Anna Leonteva
+тгк: @itsannlyone
+art.mediiia
+hsedesign
+projects | 22
+books | 1
+subscriptions
+awards | 12
+sort by
+actual
 © «BRND-RU» LLC 2022-2026
 privacy policy
 legal documents
 contact us
 made by mediiia
 ↗
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/account/anna-leonteva-53d7789c97274bb0846f4e6edf230d1b</guid><pubDate>Sun, 05 Jul 2026 06:39:08 +0000</pubDate></item><item><title>Коробка — мобильное приложение
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/account/anna-leonteva-53d7789c97274bb0846f4e6edf230d1b</guid><pubDate>Sun, 05 Jul 2026 09:41:30 +0000</pubDate></item><item><title>Коробка — мобильное приложение
 Anna Leonteva
 25</title><link>https://deziiign.com/project/korobka-mobilnoe-prilozhenie-3b13a2c954804b1580af7fa0fdb8b2bd</link><description>deziiign
 portfolio
@@ -80,16 +98,18 @@ mobile application
 communication strategy
 interface design
 application
-0
-Коробка — мобильное приложение
-Anna Leonteva
-digital product design
-mobile application
-communication strategy
-interface design
-application
-0
-Project create</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2320/b524fc6203734b85b20c4e4158de1f8a/8bfe34955ca146408de504768d1179d6450x632.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;deziiign
+25
+Finalist of the competition
+DAFES choice. April 2026 
+Original size 2094x618
+
+Коробка — приложение встречи мастеров
+и людей со старыми вещами.
+
+
+
+
+В постс</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2320/b524fc6203734b85b20c4e4158de1f8a/8bfe34955ca146408de504768d1179d6450x632.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;deziiign
 portfolio
 competencies
 tags
@@ -116,7 +136,68 @@ mobile application
 communication strategy
 interface design
 application
-0
+25
+Finalist of the competition
+DAFES choice. April 2026 
+Original size 2094x618
+
+Коробка — приложение встречи мастеров
+и людей со старыми вещами.
+
+
+
+
+В постсоветском пространстве остро стоит проблема накопительства хлама в квартирах, на дачах и гаражах. При этом иногда именно этот хлам нужен творцам бесплатно или по минимальной стоимости не в оптовых масштабах.
+
+Original size 2094x1093
+
+Приложение основано на экспедиции и исследовании визуальных паттернов деревенских дворов и обнаружении проблемы переизбытка хлама и возникшего апсайкл-творчества.
+
+Функции приложения
+
+Метод персон
+
+Анализ конкурентов
+
+Приложение решает одновременно несколько проблем: экологическая (повторное использование старых вещей), социальная (вещи психологически проще отдавать, чем выкидывать) и культурная (содействие творческой аудитории)
+
+Original size 2094x1178
+
+Главный сценарий в userflow
+
+Original size 2284x900
+
+Онбординг
+
+Original size 2094x1178
+Original size 2284x941
+
+Процесс покупки материала
+
+В приложении предусмотрено два сценария создания карточки материала: дублирование
+и создание с нуля. Существует внутреннее деление с фильтрами, применимыми именно к материалам для творчества.
+
+Original size 2094x1178
+Original size 2284x900
+
+Прототип
+
+Лендинг
+
+Original size 2094x1178
+
+В приложении также существует база знаний: мастер-классы, статьи и мероприятия. Так формируется сообщество творческих людей, работающих в технике апсайкл.
+
+
+
+
+При невостребовании товаров более полугода приложение будет присылать сообщение с предложением сдать вещи в переработку.
+
+Original size 2094x1083
+
+Экосистема
+
+Original size 1920x1066
 Коробка — мобильное приложение
 Anna Leonteva
 digital product design
@@ -124,8 +205,22 @@ mobile application
 communication strategy
 interface design
 application
-0
+25
 Project created at 21.04.2026
+More projects in
+digital product design
+Что делаем? — идеи для встреч с друзьями
+Multiple Authors
+7
+сойка — сервис для сохранения воспоминаний
+Multiple Authors
+6
+БИТЗ питч-дек
+Multiple Authors
+3
+Aeterna — семейный цифровой архив
+Multiple Authors
+45
 deziiign
 artz work
 fashion deziiign
@@ -139,7 +234,7 @@ privacy policy
 legal documents
 contact us
 made by mediiia
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/korobka-mobilnoe-prilozhenie-3b13a2c954804b1580af7fa0fdb8b2bd</guid><pubDate>Sun, 05 Jul 2026 06:39:00 +0000</pubDate></item><item><title>BEST DESIGN
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/korobka-mobilnoe-prilozhenie-3b13a2c954804b1580af7fa0fdb8b2bd</guid><pubDate>Sun, 05 Jul 2026 09:41:23 +0000</pubDate></item><item><title>BEST DESIGN
 APRIL
 2026
 Soliloquy | Тизер
@@ -306,7 +401,7 @@ privacy policy
 legal documents
 contact us
 made by mediiia
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/solilo-9d0e133f2b1c4899b5e5361549855a48</guid><pubDate>Sun, 05 Jul 2026 06:38:53 +0000</pubDate></item><item><title>BEST DESIGN
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/solilo-9d0e133f2b1c4899b5e5361549855a48</guid><pubDate>Sun, 05 Jul 2026 09:41:15 +0000</pubDate></item><item><title>BEST DESIGN
 APRIL
 2026
 38
@@ -330,9 +425,7 @@ RU
 EN
 Create project
 Login
-
 «DАФЕC Типографика»: есть такая буква!
-
 HSE Design Lab
 , 
 Oksana Dvoryankina
@@ -344,11 +437,16 @@ landing
 typography
 original font
 38
-1
-The winner of the competition
-DAFES choice. April 2026 
-
-Инсайт номер один: буквы могут кричать, шептаться, смеяться и даже убеждать — ​а н</description><content:encoded>&lt;img src="https://files.mediiia.ru/postimages/44434/fbffa8720d1241fbb5060b94a2dd6219/74173fcfa45345048258428d80142d901440x757.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;deziiign
+Project created at 07.04.2026
+deziiign
+artz work
+fashion deziiign
+education
+startup incubator
+gallllery
+gallllery.art
+kiiids.art
+© «BRND-RU» LL</description><content:encoded>&lt;p&gt;deziiign
 portfolio
 competencies
 tags
@@ -367,9 +465,7 @@ RU
 EN
 Create project
 Login
-
 «DАФЕC Типографика»: есть такая буква!
-
 HSE Design Lab
 , 
 Oksana Dvoryankina
@@ -381,67 +477,21 @@ landing
 typography
 original font
 38
-1
-The winner of the competition
-DAFES choice. April 2026 
-
-Инсайт номер один: буквы могут кричать, шептаться, смеяться и даже убеждать — ​а не только складываться в слова. Инсайт номер два: увидеть это можно с 23 марта по 12 апреля в Музее Москвы, на первом в России Фестивале типографики и графического дизайна «DАФЕC Типографика», который проводят Школа дизайна НИУ ВШЭ и международная платформа DАФЕС.
-
-Original size 4000x2104
-
-Что вы увидите
-
-Original size 4000x2104
-
-Главный хит фестиваля — ​масштабная выставка плаката, на которой будет интересно побывать как профессионалам, так и всем, кто просто тренирует свою насмотренность. В качестве арт-инвентаря выступят более 300 работ от дерзких дебютантов типографики и общепризнанных мэтров жанра.
-
-Original size 4000x2105
-
-Норму по количеству шагов тоже получится выполнить. Типографика во всех своих ипостасях — ​статичной и анимированной, детской и академической, экспериментальной и классической — ​занимает тут целых пять выставочных залов.
-
-Original size 4000x2104
-Original size 4000x2103
-Original size 4000x2104
-
-Экспозиция вообще устроена как путешествие: от смелых работ молодых авторов — ​к шрифту, который начинает двигаться и меняться прямо на ваших глазах. От свободного, почти интуитивного детского взгляда — ​к точным и выверенным экспериментам, за которыми стоят годы исследований. Финал, он же катарсис: легендарные плакаты, которые задали правила игры для всего графического дизайна современности.
-
-Original size 4000x2104
-
-Зачем сюда идти?
-
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-
-• Чтобы прокачать эрудицию
-• Чтобы глубже погрузиться в мир букв: после выставки вы начнете замечать ритм, характер и интонацию шрифта — в афишах, интерфейсах, городской среде
-• Чтобы понять, как создаются шрифты изнутри — от инсайта до воплощения на бумаге
-• Чтобы понять, как устроен дизайн, который работает
-• Чтобы посмотреть на работы признанных мастеров международного уровня, оказавших заметное влияние на становление современного графического дизайна в секции «Легенды плаката» и сохранить их к себе в коллекцию
-
-Выбрать плакат
-
-Готовы попробовать сами?
-
-Original size 4000x2105
-
-Фестиваль не заканчивается в выставочных залах. Благодаря параллельной программе можно еще и разобраться, как дизайн и типографика работают прямо сейчас. Вы услышите и поймете, как мыслят шрифтовые дизайнеры и арт-директоры, попробуете каллиграфию на практике и увидите, куда движется визуальная культура — ​без абстракций, на реальных примерах.
-
-А если хочется забрать выставку с собой
-
-Original size 4000x2104
-
-Работы мастеров из секции «Легенды плаката» доступны на artz.work — ​в формате коллекционных репроду&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/dafec-tipografika-est-takaya-bukva-6373e07533bc4d209a5fa22201441af3</guid><pubDate>Sun, 05 Jul 2026 06:38:45 +0000</pubDate></item><item><title>postcards{1}
+Project created at 07.04.2026
+deziiign
+artz work
+fashion deziiign
+education
+startup incubator
+gallllery
+gallllery.art
+kiiids.art
+© «BRND-RU» LLC 2022-2026
+privacy policy
+legal documents
+contact us
+made by mediiia
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/dafec-tipografika-est-takaya-bukva-6373e07533bc4d209a5fa22201441af3</guid><pubDate>Sun, 05 Jul 2026 09:41:07 +0000</pubDate></item><item><title>postcards{1}
 Multiple Authors
 112</title><link>https://deziiign.com/project/pos-8a0522985fa349129c0b3ea824685582</link><description>deziiign
 portfolio
@@ -608,7 +658,7 @@ privacy policy
 legal documents
 contact us
 made by mediiia
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/pos-8a0522985fa349129c0b3ea824685582</guid><pubDate>Sun, 05 Jul 2026 06:38:36 +0000</pubDate></item><item><title>Ekaterina Hvostenko</title><link>https://deziiign.com/account/overweary</link><description>deziiign
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/pos-8a0522985fa349129c0b3ea824685582</guid><pubDate>Sun, 05 Jul 2026 09:41:00 +0000</pubDate></item><item><title>Ekaterina Hvostenko</title><link>https://deziiign.com/account/overweary</link><description>deziiign
 portfolio
 competencies
 tags
@@ -630,20 +680,13 @@ Login
 Ekaterina Hvostenko
 Russian Federation
 Брендинг, айдентика, работа с AI-инструментами
-mediiia
-hsedesign
-projects | 4
-subscriptions
-awards | 2
-sort by
-actual
 © «BRND-RU» LLC 2022-2026
 privacy policy
 legal documents
 contact us
 made by mediiia
 ↗
-We use cookies to improve the operation of the website and to enhance its usa</description><content:encoded>&lt;img src="https://countryflagsapi.netlify.app/flag/ru.svg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;deziiign
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Sh</description><content:encoded>&lt;img src="https://countryflagsapi.netlify.app/flag/ru.svg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;deziiign
 portfolio
 competencies
 tags
@@ -665,20 +708,13 @@ Login
 Ekaterina Hvostenko
 Russian Federation
 Брендинг, айдентика, работа с AI-инструментами
-mediiia
-hsedesign
-projects | 4
-subscriptions
-awards | 2
-sort by
-actual
 © «BRND-RU» LLC 2022-2026
 privacy policy
 legal documents
 contact us
 made by mediiia
 ↗
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/account/overweary</guid><pubDate>Sun, 05 Jul 2026 06:38:28 +0000</pubDate></item><item><title>FOZZO — протеиновые батончики
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/account/overweary</guid><pubDate>Sun, 05 Jul 2026 09:40:52 +0000</pubDate></item><item><title>FOZZO — протеиновые батончики
 Ekaterina Hvostenko
 44</title><link>https://deziiign.com/project/fozzo-0b14f2b52a254cd4b580a35edacd74b1</link><description>deziiign
 portfolio
@@ -703,13 +739,22 @@ Ekaterina Hvostenko
 Original size 1140x1600
 FOZZO — протеиновые батончики
 packaging design
-44
-Finalist of the competition
-DAFES choice. April 2026 
-
-Помните, как в детстве после школы мы спешили к ларьку за сахарной ватой или любимым леденцом? А может, вы помните печенье с маслом — казалось, вкуснее ничего не бывает…
-
-</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2311/01ed38bd90064e03b63b559bb30c8b68/62fab8dd39fe4e68a0be78e91f205813450x632.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;deziiign
+0
+FOZZO — протеиновые батончики
+Ekaterina Hvostenko
+packaging design
+0
+Project created at 15.04.2026
+deziiign
+artz work
+fashion deziiign
+education
+startup incubator
+gallllery
+gallllery.art
+kiiids.art
+© «BRND-RU» LLC 2022-2026
+pri</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2311/01ed38bd90064e03b63b559bb30c8b68/62fab8dd39fe4e68a0be78e91f205813450x632.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;deziiign
 portfolio
 competencies
 tags
@@ -732,58 +777,12 @@ Ekaterina Hvostenko
 Original size 1140x1600
 FOZZO — протеиновые батончики
 packaging design
-44
-Finalist of the competition
-DAFES choice. April 2026 
-
-Помните, как в детстве после школы мы спешили к ларьку за сахарной ватой или любимым леденцом? А может, вы помните печенье с маслом — казалось, вкуснее ничего не бывает…
-
-
-
-
-Протеиновые батончики Fozzo пробуждают детские воспоминания — с одним отличием: без сахара, только белок. Но обещаем, на вкус это не влияет.
-
-Original size 4900x3440
-Original size 4900x3440
-Original size 2450x1720
-Original size 4900x3440
-Original size 4900x3440
-Original size 4900x3440
-Original size 4900x3440
 0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-0
-Original size 3675x2580
-Original size 4900x3440
-Original size 4900x3440
-Original size 4900x3440
 FOZZO — протеиновые батончики
 Ekaterina Hvostenko
 packaging design
-44
+0
 Project created at 15.04.2026
-More projects in
-packaging design
-MIN | Упаковка пива
-Multiple Authors
-9
-tacto — упаковка хозяйственного мыла для незрячих и слабовидящих
-Larisa Musaelyan
-12
-Скраб для лица Hsss
-Elizaveta Vashkevich
-11
-ASH — упаковка крафтового пива
-Multiple Authors
-25
 deziiign
 artz work
 fashion deziiign
@@ -797,7 +796,7 @@ privacy policy
 legal documents
 contact us
 made by mediiia
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/fozzo-0b14f2b52a254cd4b580a35edacd74b1</guid><pubDate>Sun, 05 Jul 2026 06:38:21 +0000</pubDate></item><item><title>Aleksandra Kulikova</title><link>https://deziiign.com/account/mksmvns</link><description>deziiign
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/fozzo-0b14f2b52a254cd4b580a35edacd74b1</guid><pubDate>Sun, 05 Jul 2026 09:40:45 +0000</pubDate></item><item><title>Aleksandra Kulikova</title><link>https://deziiign.com/account/mksmvns</link><description>deziiign
 portfolio
 competencies
 tags
@@ -851,7 +850,7 @@ legal documents
 contact us
 made by mediiia
 ↗
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/account/mksmvns</guid><pubDate>Sun, 05 Jul 2026 06:38:13 +0000</pubDate></item><item><title>Техно-коктейли «RAVE»
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/account/mksmvns</guid><pubDate>Sun, 05 Jul 2026 09:40:37 +0000</pubDate></item><item><title>Техно-коктейли «RAVE»
 Aleksandra Kulikova
 66</title><link>https://deziiign.com/project/rave-ee2fa366768e40e9b7561d703449e624</link><description>deziiign
 portfolio
@@ -880,16 +879,16 @@ packaging design
 communication strategy
 branding
 beverage packaging
-0
-Техно-коктейли «RAVE»
-Aleksandra Kulikova
-curated byNatalya Burdenkova
-packaging design
-communication strategy
-branding
-beverage packaging
-0
-Project create</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2355/bbc77338b2204ca48c605eb34d5da881/17a476f9fce543468746cbdc09e2ff0e450x637.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;deziiign
+66
+Finalist of the competition
+DAFES choice. April 2026 
+
+«RAVE» — бренд техно-коктейлей
+для тех, кто живет в движении
+
+Original size 3840x2160
+
+В основе кон</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2355/bbc77338b2204ca48c605eb34d5da881/17a476f9fce543468746cbdc09e2ff0e450x637.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;deziiign
 portfolio
 competencies
 tags
@@ -916,7 +915,38 @@ packaging design
 communication strategy
 branding
 beverage packaging
+66
+Finalist of the competition
+DAFES choice. April 2026 
+
+«RAVE» — бренд техно-коктейлей
+для тех, кто живет в движении
+
+Original size 3840x2160
+
+В основе концепции эффект активного
+движения на рейве и чувство свободы.
+
+
+
+
+«RAVE» про чувство, движение и свободу.
+
+Original size 3840x2160
 0
+0
+0
+0
+0
+0
+0
+Original size 3840x2160
+Original size 3840x2160
+Original size 3840x2160
+Original size 3840x2160
+Original size 3840x2160
+Original size 3840x3054
+Original size 3840x2160
 Техно-коктейли «RAVE»
 Aleksandra Kulikova
 curated byNatalya Burdenkova
@@ -924,8 +954,22 @@ packaging design
 communication strategy
 branding
 beverage packaging
-0
+66
 Project created at 15.04.2026
+More projects in
+packaging design
+MIN | Упаковка пива
+Multiple Authors
+9
+tacto — упаковка хозяйственного мыла для незрячих и слабовидящих
+Larisa Musaelyan
+12
+Скраб для лица Hsss
+Elizaveta Vashkevich
+11
+ASH — упаковка крафтового пива
+Multiple Authors
+26
 deziiign
 artz work
 fashion deziiign
@@ -939,7 +983,7 @@ privacy policy
 legal documents
 contact us
 made by mediiia
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/rave-ee2fa366768e40e9b7561d703449e624</guid><pubDate>Sun, 05 Jul 2026 06:38:05 +0000</pubDate></item><item><title>Ekaterina Shabashova</title><link>https://deziiign.com/account/7fb69043c6b84e4194de1bd8ff55823d</link><description>deziiign
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/rave-ee2fa366768e40e9b7561d703449e624</guid><pubDate>Sun, 05 Jul 2026 09:40:30 +0000</pubDate></item><item><title>Ekaterina Shabashova</title><link>https://deziiign.com/account/7fb69043c6b84e4194de1bd8ff55823d</link><description>deziiign
 portfolio
 competencies
 tags
@@ -958,7 +1002,12 @@ RU
 EN
 Create project
 Login
-Loading...
+Ekaterina Shabashova
+projects | 23
+subscriptions
+awards | 2
+sort by
+actual
 © «BRND-RU» LLC 2022-2026
 privacy policy
 legal documents
@@ -984,14 +1033,19 @@ RU
 EN
 Create project
 Login
-Loading...
+Ekaterina Shabashova
+projects | 23
+subscriptions
+awards | 2
+sort by
+actual
 © «BRND-RU» LLC 2022-2026
 privacy policy
 legal documents
 contact us
 made by mediiia
 ↗
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/account/7fb69043c6b84e4194de1bd8ff55823d</guid><pubDate>Sun, 05 Jul 2026 06:37:57 +0000</pubDate></item><item><title>History of the Jaroslav tram
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/account/7fb69043c6b84e4194de1bd8ff55823d</guid><pubDate>Sun, 05 Jul 2026 09:40:22 +0000</pubDate></item><item><title>History of the Jaroslav tram
 Ekaterina Shabashova
 101</title><link>https://deziiign.com/project/i-15d0bb04cbf845d6b15936a31e5c76e5</link><description>deziiign
 portfolio
@@ -1089,7 +1143,7 @@ privacy policy
 legal documents
 contact us
 made by mediiia
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/i-15d0bb04cbf845d6b15936a31e5c76e5</guid><pubDate>Sun, 05 Jul 2026 06:37:50 +0000</pubDate></item><item><title>Darya Levina</title><link>https://deziiign.com/account/darya-levina-e09c1d02f7c644b5a95e5cca10bea798</link><description>deziiign
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/i-15d0bb04cbf845d6b15936a31e5c76e5</guid><pubDate>Sun, 05 Jul 2026 09:40:15 +0000</pubDate></item><item><title>Darya Levina</title><link>https://deziiign.com/account/darya-levina-e09c1d02f7c644b5a95e5cca10bea798</link><description>deziiign
 portfolio
 competencies
 tags
@@ -1108,8 +1162,7 @@ RU
 EN
 Create project
 Login
-Darya Levina
-tg @daria_levinson
+Loading...
 © «BRND-RU» LLC 2022-2026
 privacy policy
 legal documents
@@ -1135,15 +1188,14 @@ RU
 EN
 Create project
 Login
-Darya Levina
-tg @daria_levinson
+Loading...
 © «BRND-RU» LLC 2022-2026
 privacy policy
 legal documents
 contact us
 made by mediiia
 ↗
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/account/darya-levina-e09c1d02f7c644b5a95e5cca10bea798</guid><pubDate>Sun, 05 Jul 2026 06:37:42 +0000</pubDate></item><item><title>BEST DESIGN
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/account/darya-levina-e09c1d02f7c644b5a95e5cca10bea798</guid><pubDate>Sun, 05 Jul 2026 09:40:07 +0000</pubDate></item><item><title>BEST DESIGN
 APRIL
 2026
 Sploosh
@@ -1178,15 +1230,13 @@ packaging design
 body, health &amp; beauty packaging
 children's toy
 159
-Sploosh
-Darya Levina
-curated byNatalya Burdenkova
-packaging design
-body, health &amp; beauty packaging
-children's toy
-159
-Project created at 21.04.2026
-deziiig</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2314/c26fa21d4aa841e1945cd3b4d943f717/e12ffefa1c754ca1b48b6af2f8888dcc450x632.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;deziiign
+1
+The winner of the competition
+DAFES choice. April 2026 
+Finalist of the competition
+HSE CREATIVE OPEN'26 / Consumer packaging design 
+
+Sploosh — это детс</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2314/c26fa21d4aa841e1945cd3b4d943f717/e12ffefa1c754ca1b48b6af2f8888dcc450x632.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;deziiign
 portfolio
 competencies
 tags
@@ -1216,6 +1266,34 @@ packaging design
 body, health &amp; beauty packaging
 children's toy
 159
+1
+The winner of the competition
+DAFES choice. April 2026 
+Finalist of the competition
+HSE CREATIVE OPEN'26 / Consumer packaging design 
+
+Sploosh — это детская пена для ванны, которую можно использовать как мыльные пузыри
+
+Original size 3840x2160
+
+Линейка упаковки Sploosh вдохновлена миром морских обитателей, которые превращают купание в игру. На каждой бутылке изображён персонаж, который соответствует особому свойству пены. Палочки для выдувания мыльных пузырей выполнены в уникальной форме и дополняют образ каждого героя.
+
+Sploosh совмещает в себе 2 формата использования: пену можно добавлять в ванну, создавая мягкое облако из пузырей, или использовать как жидкость для выдувания мыльных пузырей прямо во время купания.
+
+Если собрать всю коллекцию — играть будет еще веселее
+
+Original size 1920x1080
+Original size 3840x2160
+Original size 1920x1080
+Original size 3840x2160
+Original size 3840x2160
+Original size 3840x2160
+Original size 3840x2160
+Original size 1920x830
+Original size 3840x2160
+Original size 3840x2160
+Original size 1920x1080
+Original size 2600x600
 Sploosh
 Darya Levina
 curated byNatalya Burdenkova
@@ -1224,6 +1302,20 @@ body, health &amp; beauty packaging
 children's toy
 159
 Project created at 21.04.2026
+More projects in
+packaging design
+MIN | Упаковка пива
+Multiple Authors
+9
+tacto — упаковка хозяйственного мыла для незрячих и слабовидящих
+Larisa Musaelyan
+12
+Скраб для лица Hsss
+Elizaveta Vashkevich
+11
+ASH — упаковка крафтового пива
+Multiple Authors
+26
 deziiign
 artz work
 fashion deziiign
@@ -1237,7 +1329,7 @@ privacy policy
 legal documents
 contact us
 made by mediiia
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/sploosh-641252b86a174e44b69a7b43fd504749</guid><pubDate>Sun, 05 Jul 2026 06:37:35 +0000</pubDate></item><item><title>Diana Zabolotnaya</title><link>https://deziiign.com/account/diana-zabolotnaya-a30f77fae12c4ce0bc4c49f96e953964</link><description>deziiign
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/sploosh-641252b86a174e44b69a7b43fd504749</guid><pubDate>Sun, 05 Jul 2026 09:39:59 +0000</pubDate></item><item><title>Diana Zabolotnaya</title><link>https://deziiign.com/account/diana-zabolotnaya-a30f77fae12c4ce0bc4c49f96e953964</link><description>deziiign
 portfolio
 competencies
 tags
@@ -1289,7 +1381,7 @@ legal documents
 contact us
 made by mediiia
 ↗
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/account/diana-zabolotnaya-a30f77fae12c4ce0bc4c49f96e953964</guid><pubDate>Sun, 05 Jul 2026 06:37:27 +0000</pubDate></item><item><title>Бренд корейской косметики CHÉEKÉE
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/account/diana-zabolotnaya-a30f77fae12c4ce0bc4c49f96e953964</guid><pubDate>Sun, 05 Jul 2026 09:39:52 +0000</pubDate></item><item><title>Бренд корейской косметики CHÉEKÉE
 Diana Zabolotnaya
 112</title><link>https://deziiign.com/project/ko-abb256d5cc21495ea8d9803bdceadec8</link><description>deziiign
 portfolio
@@ -1393,7 +1485,7 @@ Elizaveta Vashkevich
 11
 ASH — упаковка крафтового пива
 Multiple Authors
-25
+26
 deziiign
 artz work
 fashion deziiign
@@ -1407,7 +1499,7 @@ privacy policy
 legal documents
 contact us
 made by mediiia
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/ko-abb256d5cc21495ea8d9803bdceadec8</guid><pubDate>Sun, 05 Jul 2026 06:37:19 +0000</pubDate></item><item><title>Gulnara Safina</title><link>https://deziiign.com/account/nifigashechki</link><description>deziiign
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/ko-abb256d5cc21495ea8d9803bdceadec8</guid><pubDate>Sun, 05 Jul 2026 09:39:44 +0000</pubDate></item><item><title>Gulnara Safina</title><link>https://deziiign.com/account/nifigashechki</link><description>deziiign
 portfolio
 competencies
 tags
@@ -1479,7 +1571,7 @@ legal documents
 contact us
 made by mediiia
 ↗
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/account/nifigashechki</guid><pubDate>Sun, 05 Jul 2026 06:37:11 +0000</pubDate></item><item><title>BEST DESIGN
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/account/nifigashechki</guid><pubDate>Sun, 05 Jul 2026 09:39:37 +0000</pubDate></item><item><title>BEST DESIGN
 MARCH
 2026
 RISOISOCLUB
@@ -1516,7 +1608,7 @@ graphic communication
 paper printing
 materials and techniques
 368
-2500
+2502
 3
 The prizewinner of the competition
 DAFES choice. March 2026 
@@ -1555,7 +1647,7 @@ graphic communication
 paper printing
 materials and techniques
 368
-2500
+2502
 3
 The prizewinner of the competition
 DAFES choice. March 2026 
@@ -1655,7 +1747,7 @@ graphic communication
 paper printing
 materials and techniques
 368
-2500
+2502
 Project created at 19.03.2026
 More projects in
 identity &amp; branding
@@ -1667,7 +1759,7 @@ Elena Endovitskaya
 8
 The act баня. Ребрендинг линейки
 Kseniya Bibikova
-14
+15
 noblur
 Angelina Rakovskaya
 64
@@ -1684,7 +1776,7 @@ privacy policy
 legal documents
 contact us
 made by mediiia
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/r-0832c71f3f564412a39bf00131e834f0</guid><pubDate>Sun, 05 Jul 2026 06:37:04 +0000</pubDate></item><item><title>partner material
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://deziiign.com/project/r-0832c71f3f564412a39bf00131e834f0</guid><pubDate>Sun, 05 Jul 2026 09:39:29 +0000</pubDate></item><item><title>partner material
 ADCR x ENDY x Школа дизайна НИУ ВШЭ: Вебинар «Кейсы-призёры изнутри»</title><link>https://adcr.dafes.net/project/kejsy-priz-ry-iznutri-razbor-dlya-student-4b9bdab90e134c3daf37e7c31a188c80</link><description>ADCR
 ADCR Awards
 club members
@@ -1704,19 +1796,10 @@ Original size 1140x1600
 Кейсы-призёры изнутри: разбор для Студентов и Молодых Креаторов
 identity &amp; branding
 2
-Кейсы-призёры изнутри: разбор для Студентов и Молодых Креаторов
-ADCR Awards
-identity &amp; branding
-2
-Project created at 16.06.2026
-ADCR
-artz work
-fashion deziiign
-education
-startup incubator
-gallllery
-gallllery.art
-kiiids.a</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2465/3b7fa0c38e6f4df99673a038d9e16f17/cb3e5b1a45614a55b4c758d90db19607600x842.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;ADCR
+
+ADCR Awards запускает серию из трёх вебинаров для студентов и молодых креаторов.
+
+Участники пройдут весь путь подготовки конкурсного проекта: познакомятся с ADCR Awards и направлениями «Молодые Креаторы» и «Студенты», р</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2465/3b7fa0c38e6f4df99673a038d9e16f17/cb3e5b1a45614a55b4c758d90db19607600x842.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;ADCR
 ADCR Awards
 club members
 agencies and studios
@@ -1735,30 +1818,43 @@ Original size 1140x1600
 Кейсы-призёры изнутри: разбор для Студентов и Молодых Креаторов
 identity &amp; branding
 2
+
+ADCR Awards запускает серию из трёх вебинаров для студентов и молодых креаторов.
+
+Участники пройдут весь путь подготовки конкурсного проекта: познакомятся с ADCR Awards и направлениями «Молодые Креаторы» и «Студенты», разберутся в механике подачи, научатся развивать идеи и дорабатывать кейсы перед отправкой.
+
+На первом вебинаре поговорим об устройстве конкурса, правилах подачи и разберём кейс победителя прошлого сезона. Второй вебинар будет посвящён работе с идеей. В прямом эфире эксперты разберут один из проектов участников, а приглашённый спикер расскажет, как развивать креативное мышление, искать новые решения и не повторять уже знакомые приёмы. Финальная встреча станет диагностикой почти готовых проектов: участники поймут, что стоит усилить, от чего отказаться и как довести заявку до финального вида.
+
+Original size 1920x1080
+
+Вебинар «Кейсы-призёры изнутри: разбор для Студентов и Молодых Креаторов»
+
+Конкурсная заявка — это не просто описание проекта. Это самостоятельный рассказ, который должен быстро дать жюри контекст, раскрыть идею и показать, почему принятое решение работает. На вебинаре спикеры разберут весь путь подготовки заявки на ADCR Awards: от выбора категории до финальной сборки кейса.
+
+Сначала поговорим о категориях: разберём, как определить, в каком направлении сильнее всего раскрывается проект, почему одна и та же работа может выглядеть убедительно в одной категории и слабее — в другой, и что нужно учитывать до подачи. Затем перейдём к структуре кейса: обсудим, какой контекст действительно необходим жюри, как сформулировать задачу, показать ход работы и подвести к результату. Разберём, как выстроить материал так, чтобы главная идея считывалась сразу, а детали помогали её раскрыть и не создавали информационный шум. Отдельная часть вебинара будет посвящена кейсам-призёрам ADCR Awards. Вместе со спикерами посмотрим, за счёт чего эти работы получили награды: что было заложено в самой идее, как авторы объяснили своё решение и какие элементы подачи сделали проект убедительным для жюри. Также поговорим о типичных ошибках.
+
+В результате вебинара участники смогут посмотреть на собственный проект глазами жюри, точнее выбрать категорию и собрать заявку, в которой сильная идея не потеряется за лишними объяснениями.
+
+Спикеры: Александр Алексеев — Президент Клуба Арт-директоров, председатель блоков «Молодые Креаторы» и «Студенты». Фёдор Борисов — арт-директор ENDY, эксперт школы брендинга ENDY education.
+
+Loading...
 Кейсы-призёры изнутри: разбор для Студентов и Молодых Креаторов
 ADCR Awards
 identity &amp; branding
 2
 Project created at 16.06.2026
-ADCR
-artz work
-fashion deziiign
-education
-startup incubator
-gallllery
-gallllery.art
-kiiids.art
-© «BRND-RU» LLC 2026
-privacy policy
-legal documents
-contact us
-made by mediiia&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://adcr.dafes.net/project/kejsy-priz-ry-iznutri-razbor-dlya-student-4b9bdab90e134c3daf37e7c31a188c80</guid><pubDate>Sun, 05 Jul 2026 06:36:56 +0000</pubDate></item><item><title>Order a design</title><link>https://dva.design/</link><description>dva.design
+More projects in
+identity &amp; branding
+Айдентика стрит-шопа неубиваемых растений «Живучий горшок»
+Ulyana Reyvah
+16
+Ладица
+Elena E&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://adcr.dafes.net/project/kejsy-priz-ry-iznutri-razbor-dlya-student-4b9bdab90e134c3daf37e7c31a188c80</guid><pubDate>Sun, 05 Jul 2026 09:39:21 +0000</pubDate></item><item><title>Order a design</title><link>https://dva.design/</link><description>dva.design
 competencies
 tags
 RU
 EN
 Login
-Your request is being processed
 © «BRND-RU» LLC 2022-2026
 made by mediiia
 ↗
@@ -1768,11 +1864,10 @@ tags
 RU
 EN
 Login
-Your request is being processed
 © «BRND-RU» LLC 2022-2026
 made by mediiia
 ↗
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://dva.design/</guid><pubDate>Sun, 05 Jul 2026 06:36:48 +0000</pubDate></item><item><title>Master's Programs</title><link>https://exams.hsedesign.ru/</link><description>master's programs
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://dva.design/</guid><pubDate>Sun, 05 Jul 2026 09:39:14 +0000</pubDate></item><item><title>Master's Programs</title><link>https://exams.hsedesign.ru/</link><description>master's programs
 for applicants
 apply to university
 news
@@ -1811,4 +1906,4 @@ HSE ART AND DESIGN SCHOOL — ONLINE MASTER’S PROGRAMS
 privacy policy
 legal documents
 contact us
-We use cookies to improve the operation of the HSE website and to enhance its usability. More detailed information on the use of cookies can be fou... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://exams.hsedesign.ru/</guid><pubDate>Sun, 05 Jul 2026 06:36:40 +0000</pubDate></item></channel></rss>
+We use cookies to improve the operation of the HSE website and to enhance its usability. More detailed information on the use of cookies can be fou... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://exams.hsedesign.ru/</guid><pubDate>Sun, 05 Jul 2026 09:39:06 +0000</pubDate></item></channel></rss>
