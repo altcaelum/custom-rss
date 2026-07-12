@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>mediiia</title><link>https://mediiia.com/</link><description>mediiia</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 12 Jul 2026 05:53:57 +0000</lastBuildDate><item><title>1
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>mediiia</title><link>https://mediiia.com/</link><description>mediiia</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sun, 12 Jul 2026 08:10:17 +0000</lastBuildDate><item><title>1
 Книги с характером
 7 изданий с маркетплейса books.mediiia
 Несколько авторов</title><link>https://mediiia.com/project/knigi-s-kharakterom-725b51858c2c4175963cdb9f8ba1e489</link><description>mediiia
@@ -99,7 +99,7 @@ media lab
 4. Белые вещи
 
 Эта авторская книга, выпущенная в 2024 году, рассказывает об истории корейцев в СССР. Повествование начинается в XIX веке и продолжается до наших дней, затрагивая эмиграцию, жизнь в новой среде и трагическую депортацию 1937 года, когда тысячи этнических корейцев были переселены в Казахстан и Среднюю Азию.
-Истори&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/knigi-s-kharakterom-725b51858c2c4175963cdb9f8ba1e489</guid><pubDate>Sun, 12 Jul 2026 05:56:12 +0000</pubDate></item><item><title>Франция. Таймлайн
+Истори&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/knigi-s-kharakterom-725b51858c2c4175963cdb9f8ba1e489</guid><pubDate>Sun, 12 Jul 2026 08:12:46 +0000</pubDate></item><item><title>Франция. Таймлайн
 Несколько авторов
 7</title><link>https://mediiia.com/project/franciya-tajmlajn-0437baa88e304b81ade50743da6cbdf5</link><description>mediiia
 темы
@@ -130,9 +130,20 @@ EN
 media lab
 центр визуальных исследований
 франция
-6
-
-История Франции — ​это не только летопись завоеваний и революций, но и эволюция стилей, рождавших шедевры. От галло-римских мозаик до пламенеющей готики, от изящного Ренессанс</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2304/e3eab07f6d9d4d20949a11897711e576/139bb20ac8f04da08a16198c4a02c8ad450x632.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;mediiia
+0
+Франция. Таймлайн
+ Center for visual research
+, 
+Дмитрий Канавин
+, 
+Александра Першеева
+таймлайн
+media lab
+центр визуальных исследований
+франция
+0
+Проект создан 17.04.2026
+medi</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2304/e3eab07f6d9d4d20949a11897711e576/139bb20ac8f04da08a16198c4a02c8ad450x632.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;mediiia
 темы
 теги
 резиденты
@@ -161,32 +172,34 @@ EN
 media lab
 центр визуальных исследований
 франция
-6
-
-История Франции — ​это не только летопись завоеваний и революций, но и эволюция стилей, рождавших шедевры. От галло-римских мозаик до пламенеющей готики, от изящного Ренессанса до дерзкого модернизма — ​искусство Франции становилось зеркалом эпохи, отражая её тревоги, надежды и дух. В этом таймлайне мы покажем точки соприкосновения между полем брани и тишиной мастерской, когда на холстах и в камне рождался неповторимый облик Франции.
-
-III–I век до н. э.
-
-Массалия и Галлия
-
-Исходный размер 2480x945
-
-Древнегреческая серебряная монета, чеканившаяся в античном греческом городе-государстве Массалия.
-Изображение льва на реверсе и Артемиды на аверсе
-
-Основанная около 600 года до н. э. греческими колонистами из Фокеи, Массалия (современный Марсель) стала важнейшим греческим полисом на средиземноморском побережье Западной Европы. Город-государство основал собственные колонии (Никея, Антиб) и установил тесные торговые связи с галльскими племенами, распространяя эллинистическое влияние вглубь континента. В III–II веках до н. э. Массалия, сохраняя формальную независимость, попала в сферу влияния Рима, выступив его союзником во время Пунических войн. Окончательно потеряла независимость после осады и взятия войсками Цезаря в 49 году до н. э. во время гражданской войны, став римским городом в составе провинции Нарбонская Галлия.
-
-Культура Массалии представляла собой уникальный синтез эллинских традиций и местных галльских влияний. Археологические находки, такие как керамика и монеты с греческими надписями, свидетельствуют о высоком уровне развития ремёсел и торговли. В архитектуре сочетались классические греческие элементы (агора, храмы) с более поздними римскими постройками. Сохранившиеся артефакты, в том числе знаменитая «Косская надпись» (устав морского братства), демонстрируют развитую правовую и общественную культуру массалиотов. Особое значение имело распространение через Массалию в Галлии греческого алфавита и средиземноморских культурных традиций, что подготовило почву для последующей романизации региона.
-
-I век до н. э. — ​V век н. э.
-
-Римская империя
-
-Исходный размер 2024x1895
-
-Симоне Мартини. Фреска со сценами из жизни святого Мартина Турского. Капелла нижней церкви Сан-Франческо в Ассизи. 1322–1326. Фрагмент
-
-В I–V веках нашей эры территория современной Франции была частью Римской империи. Галлия, завоёванная Юлием Цезарем в 58–50 годах до н. э., была разделена на несколько провинций (Нарбонская Галлия, Лугдунская Галлия, Аквитания и Бельгика). В этот период здесь установился «Римский мир» (Pax Romana), сопровождавшийся активной романизацией: строительством дорог, акведуков (как Пон-дю-Гар), основанием городов (Лугдунум — ​Лион, Л&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/franciya-tajmlajn-0437baa88e304b81ade50743da6cbdf5</guid><pubDate>Sun, 12 Jul 2026 05:56:04 +0000</pubDate></item><item><title>Дмитрий Леонтьев</title><link>https://mediiia.com/account/dmitriy-leontev-641fc560229e4cd195dc0feb0f64a53a</link><description>mediiia
+0
+Франция. Таймлайн
+ Center for visual research
+, 
+Дмитрий Канавин
+, 
+Александра Першеева
+таймлайн
+media lab
+центр визуальных исследований
+франция
+0
+Проект создан 17.04.2026
+mediiia
+deziiign
+artz work
+fashion deziiign
+education
+startup incubator
+gallllery
+gallllery.art
+kiiids.art
+© ООО «БРНД-РУ» 2022-2026
+политика конфиденциальности
+юридические документы
+связаться с нами
+made by mediiia
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/franciya-tajmlajn-0437baa88e304b81ade50743da6cbdf5</guid><pubDate>Sun, 12 Jul 2026 08:12:38 +0000</pubDate></item><item><title>Дмитрий Леонтьев</title><link>https://mediiia.com/account/dmitriy-leontev-641fc560229e4cd195dc0feb0f64a53a</link><description>mediiia
 темы
 теги
 резиденты
@@ -206,12 +219,6 @@ EN
 Вход
 ДЛ
 Дмитрий Леонтьев
-deziiign
-проекты | 39
-юниты | 1
-подписки
-сортировка по
-актуальности
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
@@ -238,19 +245,13 @@ EN
 Вход
 ДЛ
 Дмитрий Леонтьев
-deziiign
-проекты | 39
-юниты | 1
-подписки
-сортировка по
-актуальности
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/dmitriy-leontev-641fc560229e4cd195dc0feb0f64a53a</guid><pubDate>Sun, 12 Jul 2026 05:55:57 +0000</pubDate></item><item><title>1
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/dmitriy-leontev-641fc560229e4cd195dc0feb0f64a53a</guid><pubDate>Sun, 12 Jul 2026 08:12:30 +0000</pubDate></item><item><title>1
 «АЛИСА, НАЙДИ МНЕ МАШИНУ» ИЛИ ЗАЧЕМ ЯНДЕКСУ ГРАБЛИ
 Дмитрий Леонтьев</title><link>https://mediiia.com/project/alisa-najdi-mne-mashinu-ili-zachem-yandek-8a4e128314274868900dbbc8eacb49dd</link><description>mediiia
 темы
@@ -365,7 +366,7 @@ kiiids.art
 юридические документы
 связаться с нами
 made by mediiia
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/alisa-najdi-mne-mashinu-ili-zachem-yandek-8a4e128314274868900dbbc8eacb49dd</guid><pubDate>Sun, 12 Jul 2026 05:55:50 +0000</pubDate></item><item><title>Цветочный гороскоп
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/alisa-najdi-mne-mashinu-ili-zachem-yandek-8a4e128314274868900dbbc8eacb49dd</guid><pubDate>Sun, 12 Jul 2026 08:12:23 +0000</pubDate></item><item><title>Цветочный гороскоп
 11 июля. Тюльпан таинственный
 Символы цветка: Мистичность, грация, адаптивность.
 Черты характера: Люди, рожденные в этот день, загадочны и глубоки.
@@ -441,7 +442,25 @@ media lab
 гороскоп. июль
 растения
 Купить → постер
-0
+7
+
+Символы цветка: Мистичность, грация, адаптивность.
+
+
+
+
+Черты характера: Люди, рожденные в этот день, загадочны и глубоки. Они обладают мягкой силой и умеют находить выход из сложных ситуаций.
+
+Оформите заказ на интерьерный постер в премиальной или классической раме.
+
+Выбрать формат, бумагу и место печати — самостоятельно или через платформу.
+
+Изображение недоступно
+
+Выбрать другую дату
+
+О проекте
+
 11 июля. Тюльпан таинственный
 Agey Tomesh
 о природе
@@ -454,8 +473,32 @@ media lab
 11 июля
 гороскоп. июль
 растения
-0
+7
 Проект создан 08.07.2025
+Другие проекты c тегом
+о природе
+mediiia.com
+№BK 80410000
+GIRAFFES
+kit-kot.com
+Жирафы
+Дмитрий Скендеров
+20
+mediiia.com
+ARTZ.WORK ILLUSTRATION
+Dmitriy Skenderov
+Хорош Гусь!
+Дмитрий Скендеров
+24
+Летняя ландшафтная школа / A-house x Timeless
+Арина Арсеньева
+7
+№HH 14010000
+GALLLLERY COLLECTION
+mediiia.com
+Рыжий исполинский кенгуру
+Дмитрий Скендеров
+46
 mediiia
 deziiign
 artz work
@@ -470,7 +513,7 @@ kiiids.art
 юридические документы
 связаться с нами
 made by mediiia
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/11-iyulya-tyulpan-tainstvennyj-233140bbfbe5446a9350c1618741218d</guid><pubDate>Sun, 12 Jul 2026 05:55:44 +0000</pubDate></item><item><title>Agey Tomesh</title><link>https://mediiia.com/account/21024e242b3044eea3cffeffd9500c86</link><description>art.
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/11-iyulya-tyulpan-tainstvennyj-233140bbfbe5446a9350c1618741218d</guid><pubDate>Sun, 12 Jul 2026 08:12:15 +0000</pubDate></item><item><title>Agey Tomesh</title><link>https://mediiia.com/account/21024e242b3044eea3cffeffd9500c86</link><description>art.
 mediiia
 темы
 теги
@@ -547,7 +590,7 @@ z
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/21024e242b3044eea3cffeffd9500c86</guid><pubDate>Sun, 12 Jul 2026 05:55:37 +0000</pubDate></item><item><title>Жан Батист Бретон. Россия, или Нравы, обычаи и костюмы жителей этой империи
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/21024e242b3044eea3cffeffd9500c86</guid><pubDate>Sun, 12 Jul 2026 08:12:07 +0000</pubDate></item><item><title>Жан Батист Бретон. Россия, или Нравы, обычаи и костюмы жителей этой империи
 Agey Tomesh
 334</title><link>https://mediiia.com/project/69ceec6104eb45d8a8412a036fd51a81</link><description>mediiia
 темы
@@ -615,7 +658,6 @@ Agey Tomesh
 Часть вторая
 Agey Tomesh
 0
-Коллекционные репродукции
 Жан Батист Бретон. Россия, или Нравы, обычаи и костюмы жителей этой империи
 Agey Tomesh
 электронная книга
@@ -639,7 +681,7 @@ kiiids.art
 юридические документы
 связаться с нами
 made by mediiia
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/69ceec6104eb45d8a8412a036fd51a81</guid><pubDate>Sun, 12 Jul 2026 05:55:30 +0000</pubDate></item><item><title>fashion deziiign editor</title><link>https://mediiia.com/account/suppport-fashion-deziiign-ab9b66322017414883dd1bb0ecb065ac</link><description>mediiia
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/69ceec6104eb45d8a8412a036fd51a81</guid><pubDate>Sun, 12 Jul 2026 08:12:00 +0000</pubDate></item><item><title>fashion deziiign editor</title><link>https://mediiia.com/account/suppport-fashion-deziiign-ab9b66322017414883dd1bb0ecb065ac</link><description>mediiia
 темы
 теги
 резиденты
@@ -658,114 +700,48 @@ EN
 Добавить проект
 Вход
 fashion deziiign editor
-подписаться
 Администрирование платформы Fashion.deziiign
-deziiign
 проекты | 48
 юниты | 1
 сортировка по
 актуальности
-о моде
-Живой материал: что биодизайн меняет в понимании одежды
-fashion deziiign editor
-8
-Возвращение к корням: как российская мода ищет себя
-fashion deziiign editor
-5
-Тактильность как политика: что происходит,</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2434/f4f9dbab9a474c8e9355287355d20e63/38cd7bdc9bb845569b4ce82ad9300e81300x449.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;mediiia
-темы
-теги
-резиденты
-маркетплейс
-конкурсы
-образование
-темы
-резиденты
-маркетплейс
-конкурсы
-образование
-блоги
-вакансии
-RU
-EN
-Добавить проект
-Вход
-fashion deziiign editor
-подписаться
-Администрирование платформы Fashion.deziiign
-deziiign
-проекты | 48
-юниты | 1
-сортировка по
-актуальности
-о моде
-Живой материал: что биодизайн меняет в понимании одежды
-fashion deziiign editor
-8
-Возвращение к корням: как российская мода ищет себя
-fashion deziiign editor
-5
-Тактильность как политика: что происходит, когда мы теряем связь с одеждой
-fashion deziiign editor
-7
-Индия как новая столица ремесленной моды
-fashion deziiign editor
-5
-Пайетки +20%: что данные говорят о текстиле 2026 года
-fashion deziiign editor
-3
-Устойчивая мода в цифрах: что говорит статистика 2026
-fashion deziiign editor
-4
-Архивная мода: почему индустрия всё больше смотрит в прошлое
-fashion deziiign editor
-2
-Выставка Costume Art в Metropolitan Museum
-fashion deziiign editor
-3
-Звёздный час футбола в мире высокой моды
-fashion deziiign editor
-3
-Айтор Троуп запускает бренд после 20 лет экспериментов
-fashion deziiign editor
-2
-Неделя моды в Рио-де-Жайнейро: новый этап после двенадцатилетнего перерыва
-fashion deziiign editor
-2
-Новое поколение дизайнеров и работа с культурным наследием
-fashion deziiign editor
-2
-Fashion Week Online: авангард вышел из подполья
-fashion deziiign editor
-2
-Вне подиума: новое поколение авангардных дизайнеров
-fashion deziiign editor
-2
-Исследование Lyst: самые желанные вещи сезона — самые скучные
-fashion deziiign editor
-1
-Секретный архив британских субкультур, которым пользуются все
-fashion deziiign editor
-1
-Архивная мода: главный способ носить авангард сегодня
-fashion deziiign editor
-2
-Sasha Barbakov: профайл бренда
-Несколько авторов
-12
-Space-Age: космическая эра в моде
-fashion deziiign editor
-1
-Jackson de Ville: профайл бренда
-Несколько авторов
-8
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/suppport-fashion-deziiign-ab9b66322017414883dd1bb0ecb065ac</guid><pubDate>Sun, 12 Jul 2026 05:55:24 +0000</pubDate></item><item><title>Исследование Lyst: самые желанные вещи сезона — самые скучные
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац.</description><content:encoded>&lt;p&gt;mediiia
+темы
+теги
+резиденты
+маркетплейс
+конкурсы
+образование
+темы
+резиденты
+маркетплейс
+конкурсы
+образование
+блоги
+вакансии
+RU
+EN
+Добавить проект
+Вход
+fashion deziiign editor
+Администрирование платформы Fashion.deziiign
+проекты | 48
+юниты | 1
+сортировка по
+актуальности
+© ООО «БРНД-РУ» 2022-2026
+политика конфиденциальности
+юридические документы
+связаться с нами
+made by mediiia
+↗
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/suppport-fashion-deziiign-ab9b66322017414883dd1bb0ecb065ac</guid><pubDate>Sun, 12 Jul 2026 08:11:52 +0000</pubDate></item><item><title>Исследование Lyst: самые желанные вещи сезона — самые скучные
 fashion deziiign editor
 1</title><link>https://mediiia.com/project/issledovanie-lyst-samye-zhelannye-veshhi--7f5a086a47c2485884e9e1f8d96a6a1e</link><description>mediiia
 темы
@@ -882,7 +858,7 @@ kiiids.art
 юридические документы
 связаться с нами
 made by mediiia
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/issledovanie-lyst-samye-zhelannye-veshhi--7f5a086a47c2485884e9e1f8d96a6a1e</guid><pubDate>Sun, 12 Jul 2026 05:55:17 +0000</pubDate></item><item><title>Мировой рекорд без объявления: дом в Челси продали за 350 миллионов долларов
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/issledovanie-lyst-samye-zhelannye-veshhi--7f5a086a47c2485884e9e1f8d96a6a1e</guid><pubDate>Sun, 12 Jul 2026 08:11:45 +0000</pubDate></item><item><title>Мировой рекорд без объявления: дом в Челси продали за 350 миллионов долларов
 Вера Ильина
 1</title><link>https://mediiia.com/project/mirovoj-rekord-bez-obyavleniya-dom-v-chel-1cd108268f14448e939a919ec5f02e82</link><description>mediiia
 темы
@@ -908,13 +884,13 @@ EN
 урбанистика
 media lab
 выбор редакции urban.deziiign
-0
+1
 Мировой рекорд без объявления: дом в Челси продали за 350 миллионов долларов
 Вера Ильина
 урбанистика
 media lab
 выбор редакции urban.deziiign
-0
+1
 Проект создан 09.07.2026
 mediiia
 dezi</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2575/ab08ab6c25ee4f018e950bb853bd6175/6cf35430ffa445899c337ca6805fb101450x639.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;mediiia
@@ -941,13 +917,13 @@ EN
 урбанистика
 media lab
 выбор редакции urban.deziiign
-0
+1
 Мировой рекорд без объявления: дом в Челси продали за 350 миллионов долларов
 Вера Ильина
 урбанистика
 media lab
 выбор редакции urban.deziiign
-0
+1
 Проект создан 09.07.2026
 mediiia
 deziiign
@@ -963,7 +939,7 @@ kiiids.art
 юридические документы
 связаться с нами
 made by mediiia
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/mirovoj-rekord-bez-obyavleniya-dom-v-chel-1cd108268f14448e939a919ec5f02e82</guid><pubDate>Sun, 12 Jul 2026 05:55:10 +0000</pubDate></item><item><title>2
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/mirovoj-rekord-bez-obyavleniya-dom-v-chel-1cd108268f14448e939a919ec5f02e82</guid><pubDate>Sun, 12 Jul 2026 08:11:38 +0000</pubDate></item><item><title>2
 11 июля
 Citatio</title><link>https://mediiia.com/project/11-iyulya-562312d561a44de9940b43922ba8de9d</link><description>mediiia
 темы
@@ -983,12 +959,6 @@ RU
 EN
 Добавить проект
 Вход
- Citatio
-электронный календарь
-media lab
-11 июля 2026
-лендинг
-2
 
 В этот день родились
 
@@ -1009,7 +979,12 @@ media lab
 2
 Проект создан 26.06.2026
 Другие проекты c тегом
-элект</description><content:encoded>&lt;img src="https://files.mediiia.ru/postimages/51328/0726ad8d0fc74ce39cb7bfa8b266284d/7d67c182b2e34a199fc5d23a452b9e911440x800.png"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;mediiia
+электронный календарь
+Захохломилось
+Анастасия Попадинец
+53
+mediiia
+de</description><content:encoded>&lt;img src="https://files.mediiia.ru/postimages/51328/0726ad8d0fc74ce39cb7bfa8b266284d/7d67c182b2e34a199fc5d23a452b9e911440x800.png"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;mediiia
 темы
 теги
 резиденты
@@ -1027,12 +1002,6 @@ RU
 EN
 Добавить проект
 Вход
- Citatio
-электронный календарь
-media lab
-11 июля 2026
-лендинг
-2
 
 В этот день родились
 
@@ -1071,7 +1040,7 @@ kiiids.art
 юридические документы
 связаться с нами
 made by mediiia
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/11-iyulya-562312d561a44de9940b43922ba8de9d</guid><pubDate>Sun, 12 Jul 2026 05:55:03 +0000</pubDate></item><item><title>Роман Миронов</title><link>https://mediiia.com/account/roma-mironoff-0f755c8837374b198ba0ec74af132afe</link><description>art.
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/11-iyulya-562312d561a44de9940b43922ba8de9d</guid><pubDate>Sun, 12 Jul 2026 08:11:30 +0000</pubDate></item><item><title>Роман Миронов</title><link>https://mediiia.com/account/roma-mironoff-0f755c8837374b198ba0ec74af132afe</link><description>art.
 mediiia
 темы
 теги
@@ -1091,13 +1060,21 @@ EN
 Вход
 РМ
 Роман Миронов
+deziiign
+проекты | 17
+книги | 1
+менеджер юнитов | 1
+юниты | 5
+подписки
+сортировка по
+актуальности
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше</description><content:encoded>&lt;p&gt;art.
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать</description><content:encoded>&lt;p&gt;art.
 mediiia
 темы
 теги
@@ -1117,13 +1094,21 @@ EN
 Вход
 РМ
 Роман Миронов
+deziiign
+проекты | 17
+книги | 1
+менеджер юнитов | 1
+юниты | 5
+подписки
+сортировка по
+актуальности
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/roma-mironoff-0f755c8837374b198ba0ec74af132afe</guid><pubDate>Sun, 12 Jul 2026 05:54:56 +0000</pubDate></item><item><title>Молодые и зеленые на сцене
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/roma-mironoff-0f755c8837374b198ba0ec74af132afe</guid><pubDate>Sun, 12 Jul 2026 08:11:22 +0000</pubDate></item><item><title>Молодые и зеленые на сцене
 Роман Миронов
 1</title><link>https://mediiia.com/project/molodye-i-zelenye-na-scene-8968ff7d3a304510b4f8528ac99d2d20</link><description>mediiia
 темы
@@ -1201,7 +1186,7 @@ media lab
 
 Театр им. Мони-Бидони. Шепот кастрюль | Театральный проект «Впервые». ЛА-ЛО-ЛУЖА | проект Зелено-Молодо. ЦСИ Винзавод, 2026
 
-Интересно, полу&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/molodye-i-zelenye-na-scene-8968ff7d3a304510b4f8528ac99d2d20</guid><pubDate>Sun, 12 Jul 2026 05:54:49 +0000</pubDate></item><item><title>Global FTBL</title><link>https://mediiia.com/account/global-ftbl-959f2db5498e47f091def302cf5b93b9</link><description>mediiia
+Интересно, полу&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/molodye-i-zelenye-na-scene-8968ff7d3a304510b4f8528ac99d2d20</guid><pubDate>Sun, 12 Jul 2026 08:11:15 +0000</pubDate></item><item><title>Global FTBL</title><link>https://mediiia.com/account/global-ftbl-959f2db5498e47f091def302cf5b93b9</link><description>mediiia
 темы
 теги
 резиденты
@@ -1220,8 +1205,7 @@ EN
 Добавить проект
 Вход
 Global FTBL
-deziiign
-проекты | 389
+проекты | 390
 юниты | 1
 сортировка по
 актуальности
@@ -1250,8 +1234,7 @@ EN
 Добавить проект
 Вход
 Global FTBL
-deziiign
-проекты | 389
+проекты | 390
 юниты | 1
 сортировка по
 актуальности
@@ -1261,7 +1244,7 @@ deziiign
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/global-ftbl-959f2db5498e47f091def302cf5b93b9</guid><pubDate>Sun, 12 Jul 2026 05:54:43 +0000</pubDate></item><item><title>Чемпионат мира 2026 — обзор игрового дня / 10.07
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/global-ftbl-959f2db5498e47f091def302cf5b93b9</guid><pubDate>Sun, 12 Jul 2026 08:11:08 +0000</pubDate></item><item><title>Чемпионат мира 2026 — обзор игрового дня / 10.07
 Global FTBL
 2</title><link>https://mediiia.com/project/chempionat-mira-2026-obzor-igrovogo-dnya--55d718d631234a1889fab47dfd5c34bf</link><description>mediiia
 темы
@@ -1343,7 +1326,7 @@ kiiids.art
 юридические документы
 связаться с нами
 made by mediiia
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/chempionat-mira-2026-obzor-igrovogo-dnya--55d718d631234a1889fab47dfd5c34bf</guid><pubDate>Sun, 12 Jul 2026 05:54:35 +0000</pubDate></item><item><title>Вера Ильина</title><link>https://mediiia.com/account/spiriteddd</link><description>mediiia
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/chempionat-mira-2026-obzor-igrovogo-dnya--55d718d631234a1889fab47dfd5c34bf</guid><pubDate>Sun, 12 Jul 2026 08:11:00 +0000</pubDate></item><item><title>Вера Ильина</title><link>https://mediiia.com/account/spiriteddd</link><description>mediiia
 темы
 теги
 резиденты
@@ -1361,7 +1344,7 @@ RU
 EN
 Добавить проект
 Вход
-Вера Ильина
+Загрузка...
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
@@ -1386,14 +1369,14 @@ RU
 EN
 Добавить проект
 Вход
-Вера Ильина
+Загрузка...
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/spiriteddd</guid><pubDate>Sun, 12 Jul 2026 05:54:28 +0000</pubDate></item><item><title>Гейм-дизайн — это ответственность
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/spiriteddd</guid><pubDate>Sun, 12 Jul 2026 08:10:53 +0000</pubDate></item><item><title>Гейм-дизайн — это ответственность
 Вера Ильина
 1</title><link>https://mediiia.com/project/gejm-dizajn-eto-otvetstvennost-995ed9f5644548a1bc7074ae2957bbef</link><description>mediiia
 темы
@@ -1461,7 +1444,7 @@ media lab
 
 Я не рассматриваю видеоигры как науку, наука — это физика, химия. Но если речь о том, что мы изучаем в рамках поля, которое называется исследованиями видеоигр, то на это я отвечу. Прежде всего мы исследуем онтологию видеоигр: то, чем они являются, какова их природа, из каких элементов они состоят, в чём суть их бытия, если говорить традиционной философской терминологией. Внутри Game Studies к этому есть разные подходы, но в целом сложилось представление, что видеоигра — синтетический объект современной культуры. Она объединяет в себе нарративные элементы, людические, то есть собственно игровые системы, технологии в смысле кода и платформ, программный и аппаратный интерфейс, а заодно и средства выразительности более старых медиа, которые вбирает в себя. Игры наследуют традиции литературы и потому умеют повествовать о череде событий, подобно роману или древнегреческой трагедии. С другой стороны, они пользуются кинематографическим языком: у них есть свой монтаж, склейки, приёмы вроде титра «Три года спустя».
 Дальше игру можно рассматривать с двух сторон. Если мы смотрим на неё саму по себе, это синхрония. Если как на процесс — это диахрония. Возьмём «Супер Марио». Синхронически в игре как заранее запрограммированной системе есть набор отдельных действий, которые игрок в принципе может совершить: идти, прыгнуть, выстрелить, разбить кирпичный блок, взять бонус, прыгнуть на врага. Это элементы правил, и геймдизайнер должен уметь их выявить, понять, что произойдёт, если совершить то или иное действие. На диахроническом уровне мы говорим о том, что игрок постоянно проходит циклы: движется вперёд, встречает препятствие, запрыгивает на него или стреляет, проходит проверку или теряет жизнь, и тогда начинает уровень заново.
-То же самое есть на нарративном уровне. В игре как системе нет ни Марио, ни принцессы Пич, ни Боузера — есть аватар и враги. А в истории есть страшный дракон Боузер, который забрал у Марио даму в беде, принцессу Пич, и рыцарь в сияющих доспехах, разве что без коня, идёт её спасать. Куртуазный роман, песня о прекрасной даме. И здесь тоже видно синхронию и диахронию: с одной стороны элементы сами по себе, с другой — последовательность событий, в которую они&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/gejm-dizajn-eto-otvetstvennost-995ed9f5644548a1bc7074ae2957bbef</guid><pubDate>Sun, 12 Jul 2026 05:54:21 +0000</pubDate></item><item><title>Связаться с нами</title><link>https://mediiia.com/teams/form/af6ef1f41df04e6cb58826682bc8284e</link><description>mediiia
+То же самое есть на нарративном уровне. В игре как системе нет ни Марио, ни принцессы Пич, ни Боузера — есть аватар и враги. А в истории есть страшный дракон Боузер, который забрал у Марио даму в беде, принцессу Пич, и рыцарь в сияющих доспехах, разве что без коня, идёт её спасать. Куртуазный роман, песня о прекрасной даме. И здесь тоже видно синхронию и диахронию: с одной стороны элементы сами по себе, с другой — последовательность событий, в которую они&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/gejm-dizajn-eto-otvetstvennost-995ed9f5644548a1bc7074ae2957bbef</guid><pubDate>Sun, 12 Jul 2026 08:10:45 +0000</pubDate></item><item><title>Связаться с нами</title><link>https://mediiia.com/teams/form/af6ef1f41df04e6cb58826682bc8284e</link><description>mediiia
 темы
 теги
 резиденты
@@ -1525,7 +1508,7 @@ EN
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/teams/form/af6ef1f41df04e6cb58826682bc8284e</guid><pubDate>Sun, 12 Jul 2026 05:54:15 +0000</pubDate></item><item><title>образование</title><link>https://education.mediiia.com/?xref=mediiia.com&amp;session_id=WK26YwOWySYiVghgYBYOhOlV</link><description>education
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/teams/form/af6ef1f41df04e6cb58826682bc8284e</guid><pubDate>Sun, 12 Jul 2026 08:10:37 +0000</pubDate></item><item><title>образование</title><link>https://education.mediiia.com/?xref=mediiia.com&amp;session_id=Xh7MqYI6rs49k2448lyYSLyK</link><description>education
 themes
 tags
 residents
@@ -1661,7 +1644,7 @@ Hse art and design Media
 Анзор Канкулов: «Медиа сегодня — это всё, что полагает себя таковым»
 То есть — практически что угодно
 Multiple Authors
-© «BRND-RU» LLC 2022-2&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://education.mediiia.com/?xref=mediiia.com&amp;session_id=WK26YwOWySYiVghgYBYOhOlV</guid><pubDate>Sun, 12 Jul 2026 05:54:09 +0000</pubDate></item><item><title>маркетплейс</title><link>https://shop.mediiia.com/art?page=1&amp;xref=mediiia.com&amp;session_id=WK26YwOWySYiVghgYBYOhOlV</link><description>art
+© «BRND-RU» LLC 2022-2&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://education.mediiia.com/?xref=mediiia.com&amp;session_id=Xh7MqYI6rs49k2448lyYSLyK</guid><pubDate>Sun, 12 Jul 2026 08:10:30 +0000</pubDate></item><item><title>маркетплейс</title><link>https://shop.mediiia.com/art?page=1&amp;xref=mediiia.com&amp;session_id=Xh7MqYI6rs49k2448lyYSLyK</link><description>art
 .mediiia
 темы
 теги
@@ -1721,4 +1704,4 @@ EN
 made by mediiia
 ↗
 
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://shop.mediiia.com/art?page=1&amp;xref=mediiia.com&amp;session_id=WK26YwOWySYiVghgYBYOhOlV</guid><pubDate>Sun, 12 Jul 2026 05:54:02 +0000</pubDate></item></channel></rss>
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://shop.mediiia.com/art?page=1&amp;xref=mediiia.com&amp;session_id=Xh7MqYI6rs49k2448lyYSLyK</guid><pubDate>Sun, 12 Jul 2026 08:10:23 +0000</pubDate></item></channel></rss>
