@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>mediiia</title><link>https://mediiia.com/</link><description>mediiia</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 18 Jul 2026 22:45:24 +0000</lastBuildDate><item><title>Анархизм и его визуальное выражение в агитации
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>mediiia</title><link>https://mediiia.com/</link><description>mediiia</description><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><lastBuildDate>Sat, 18 Jul 2026 23:49:18 +0000</lastBuildDate><item><title>Анархизм и его визуальное выражение в агитации
 Екатерина Махно
 25</title><link>https://mediiia.com/project/c85bfb774a2b45a3b1da396c30e29344</link><description>mediiia
 темы
@@ -147,7 +147,7 @@ kiiids.art
 юридические документы
 связаться с нами
 made by mediiia
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/c85bfb774a2b45a3b1da396c30e29344</guid><pubDate>Sat, 18 Jul 2026 22:47:57 +0000</pubDate></item><item><title>1
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/c85bfb774a2b45a3b1da396c30e29344</guid><pubDate>Sat, 18 Jul 2026 23:51:50 +0000</pubDate></item><item><title>1
 Тактильные материалы
 7 предметов, которые хочется трогать
 Несколько авторов</title><link>https://mediiia.com/project/taktilnye-materialy-f49431cd4cdd415da65f789644b48e41</link><description>mediiia
@@ -179,7 +179,7 @@ media lab
 лендинг
 посуда
 декор
-0
+1
 Проект создан 17.07.2026
 mediiia
 deziiign
@@ -222,7 +222,7 @@ media lab
 лендинг
 посуда
 декор
-0
+1
 Проект создан 17.07.2026
 mediiia
 deziiign
@@ -238,7 +238,7 @@ kiiids.art
 юридические документы
 связаться с нами
 made by mediiia
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/taktilnye-materialy-f49431cd4cdd415da65f789644b48e41</guid><pubDate>Sat, 18 Jul 2026 22:47:49 +0000</pubDate></item><item><title>Показ анимационных фильмов студентов Школы дизайна в «Ровеснике»
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/taktilnye-materialy-f49431cd4cdd415da65f789644b48e41</guid><pubDate>Sat, 18 Jul 2026 23:51:43 +0000</pubDate></item><item><title>Показ анимационных фильмов студентов Школы дизайна в «Ровеснике»
 Несколько авторов
 1</title><link>https://mediiia.com/project/pokaz-animacionnykh-filmov-studentov-shko-92182573d06344f099252ef2671665cb</link><description>mediiia
 темы
@@ -269,8 +269,17 @@ EN
 media lab
 новости
 1
-
-23 июля в баре «Ровесник» пройдёт показ анимационных фильмов студентов Школы дизайна НИУ ВШЭ. В программе — работы, созданные студентами II и III курсов по итогам весенне</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2588/4ea471eedd06475ea902a766e51a5bfe/a34906fd13744f6bb5139f792faa470a450x631.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;mediiia
+Показ анимационных фильмов студентов Школы дизайна в «Ровеснике»
+Екатерина Кулагина
+, 
+Варвара Лобода
+, 
+Полина Кампиони
+об анимации
+media lab
+новости
+1
+Проект создан 17.0</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2588/4ea471eedd06475ea902a766e51a5bfe/a34906fd13744f6bb5139f792faa470a450x631.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;mediiia
 темы
 теги
 резиденты
@@ -299,65 +308,43 @@ EN
 media lab
 новости
 1
-
-23 июля в баре «Ровесник» пройдёт показ анимационных фильмов студентов Школы дизайна НИУ ВШЭ. В программе — работы, созданные студентами II и III курсов по итогам весенней сессии 2026 года: игровые, экспериментальные и музыкальные короткометражные фильмы, объединенные авторским взглядом и разнообразием визуальных решений.
-
-Исходный размер 1280x720
-
-Елизавета Бурмистрова. Мечта
-
-Зрители увидят почти два часа современной студенческой анимации — истории о взрослении, дружбе, памяти, внутренних переживаниях, абсурде, фантазии и повседневности. В программу вошли более тридцати фильмов, выполненных в самых разных техниках и жанрах: от рисованной и цифровой анимации до экспериментальных проектов и музыкальных клипов.
-
-В ПРОГРАММЕ:
-II курс
-«В тихом омуте…» — реж. Алиса Лузина, Людмила Борхонова, Милана Любицкая
-«Йо-ха-кио!» — реж. Вероника Азбукина, Мария Фламенбаум, Таисия Степанова
-«Мой герой» — реж. Алина Ан, Богдана Кадилова, Ксения Имамова
-«Мелочь» — реж. Алина Балацкая, Анна Герасимова, Арина Алютова
-«Не разлей вода» — реж. Алиса Рогинская, Бэла Маскурова, Дарья Марченко
-«Девчонки [В ДЕЛЕ]» — реж. Диана Амини, Елена Семенова
-«Курс на сумку» — реж. Александра Костылева, Алёна Левкина, Софья Волощенко
-«OUT OF FOCUS» — реж. Анастасия Комелина, Дарья Нефедова, Рената Закиева
-«Зверь» — реж. Анастасия Андронова, Елизавета Сидорова, Мария Фабричная
+Показ анимационных фильмов студентов Школы дизайна в «Ровеснике»
+Екатерина Кулагина
+, 
+Варвара Лобода
+, 
+Полина Кампиони
+об анимации
+media lab
+новости
+1
+Проект создан 17.07.2026
+Другие проекты c тегом
+об анимации
+DIPLOMA I: анимация Школы дизайна НИУ ВШЭ в «Сфере X5»
+Несколько авторов
+1
+От студенческих конкурсов до телевизионного эфира: интервью с 2×2
+Анна Павленко
+4
 0
-0
-0
-0
-0
-0
-0
-0
-0
-
-Виктория Ли. Я знаю я тебя // Иван Шутов. Soda Can // Тимур Гукасян. Редкая птичка // Леонид Векшин. Больше некуда
-
-III курс
-«Вампиры в клубе» — реж. Полина Данилова
-«re: define» — реж. Анастасия Шерстнёва
-«Больше некуда» — реж. Леонид Векшин
-«Лесной рейв» — реж. Залина Иризбаева
-«Шрамы» — реж. Арина Чакыр
-«Мечта» — реж. Елизавета Бурмистрова
-«Геймер» — реж. Дарья Левшина, Мария Воронкова
-«Lodoss — „Лягушки в кипятке“» — реж. Ханзада Саидахмедова
-«В коробке» — реж. Дарья Лаптева
-«Редкая птичка» — реж. Тимур Гукасян
-«Чудовище ФРАНКЕНШТЕРНА» — реж. Тимур Чернявский
-«Кулкидс» — реж. Елизавета Шипицина
-«Маяк» — реж. Марина Богданова
-«призрак — макулатура» — реж. Арина Иванова
-«Я знаю я тебя.» — реж. Виктория Ли
-«Условные знаки» — реж. Мария Шаталова
-«Endure» — реж. Лина Юнис
-«Новая Волна» — реж. Виктория Исаева
-«Старость и Ку-Ку» — реж. Василий Разорёнов
-«АукцЫон — Огонь» — реж. Мария Канторович
-«ГАЛАКТИКА» — реж. Анастасия Плюснина, Дарья Овсянникова, Николь Курганская
-«Слово» — реж. Ульяна Лавор
-«Культурный кот» — реж. Софья Дорожинская
-«Фаза-ноль» — реж. Виктория Юрьева
-
-«Ровесник» уже не первый раз становится площадкой для открытых показов студенческой анимации Школы дизайна. Такие встречи дают возможность увидеть новые работы молодых режиссеров на большом экране и поз&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/pokaz-animacionnykh-filmov-studentov-shko-92182573d06344f099252ef2671665cb</guid><pubDate>Sat, 18 Jul 2026 22:47:42 +0000</pubDate></item><item><title>Виктория Шишкина</title><link>https://mediiia.com/account/viktoriya-shishkina-3e25bb78a0264da9834be3e2a3b19ada</link><description>art.
+hseanimation
+Екатерина Якушкина
+mediiia
+deziiign
+artz work
+fashion deziiign
+education
+startup incubator
+gallllery
+gallllery.art
+kiiids.art
+© ООО «БРНД-РУ» 2022-2026
+политика конфиденциальности
+юридические документы
+связаться с нами
+made by mediiia
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/pokaz-animacionnykh-filmov-studentov-shko-92182573d06344f099252ef2671665cb</guid><pubDate>Sat, 18 Jul 2026 23:51:35 +0000</pubDate></item><item><title>Виктория Шишкина</title><link>https://mediiia.com/account/viktoriya-shishkina-3e25bb78a0264da9834be3e2a3b19ada</link><description>art.
 mediiia
 темы
 теги
@@ -377,6 +364,7 @@ EN
 Вход
 ВШ
 Виктория Шишкина
+deziiign
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
@@ -403,13 +391,14 @@ EN
 Вход
 ВШ
 Виктория Шишкина
+deziiign
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/viktoriya-shishkina-3e25bb78a0264da9834be3e2a3b19ada</guid><pubDate>Sat, 18 Jul 2026 22:47:34 +0000</pubDate></item><item><title>3
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/viktoriya-shishkina-3e25bb78a0264da9834be3e2a3b19ada</guid><pubDate>Sat, 18 Jul 2026 23:51:27 +0000</pubDate></item><item><title>3
 Фабрика следующая?
 Виктория Шишкина</title><link>https://mediiia.com/project/fabrika-sleduyushhaya-d3248a1f0ad649fcae5d82aea4c86f0f</link><description>mediiia
 темы
@@ -483,7 +472,7 @@ media lab
 
 Исходный размер 1535x1024
 
-Впрочем, говорить о закрытии пока рано. Сейчас ЦТИ продолжает работать, а его руководство ведет переговоры с городом и одно&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/fabrika-sleduyushhaya-d3248a1f0ad649fcae5d82aea4c86f0f</guid><pubDate>Sat, 18 Jul 2026 22:47:26 +0000</pubDate></item><item><title>Center for visual research</title><link>https://mediiia.com/account/497440b2c7f24bd2949e078cfe2d5d83</link><description>mediiia
+Впрочем, говорить о закрытии пока рано. Сейчас ЦТИ продолжает работать, а его руководство ведет переговоры с городом и одно&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/fabrika-sleduyushhaya-d3248a1f0ad649fcae5d82aea4c86f0f</guid><pubDate>Sat, 18 Jul 2026 23:51:20 +0000</pubDate></item><item><title>Center for visual research</title><link>https://mediiia.com/account/497440b2c7f24bd2949e078cfe2d5d83</link><description>mediiia
 темы
 теги
 резиденты
@@ -503,6 +492,7 @@ EN
 Вход
 UC
 Center for visual research
+deziiign
 проекты | 23
 юниты | 2
 сортировка по
@@ -533,6 +523,7 @@ EN
 Вход
 UC
 Center for visual research
+deziiign
 проекты | 23
 юниты | 2
 сортировка по
@@ -543,7 +534,7 @@ Center for visual research
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/497440b2c7f24bd2949e078cfe2d5d83</guid><pubDate>Sat, 18 Jul 2026 22:47:18 +0000</pubDate></item><item><title>Италия. Таймлайн
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/497440b2c7f24bd2949e078cfe2d5d83</guid><pubDate>Sat, 18 Jul 2026 23:51:12 +0000</pubDate></item><item><title>Италия. Таймлайн
 Center for visual research
 6</title><link>https://mediiia.com/project/italiya-90f7f6720c9d4c2a96504c2e9d8cb0ac</link><description>mediiia
 темы
@@ -623,7 +614,7 @@ VIII век до н. э.
 
 Согласно античной традиции, Рим был основан 21 апреля 753 года до н. э. Ромулом на Палатинском холме. Этот период характеризуется сложными процессами культурного взаимодействия между местными племенами, этрусками и греческими колонистами.
 
-Раннеримское искусство засвидетельствовано скромными вотивными статуэтками и хижинами с геометрической керамикой, обнаруженными при раскопках на римском форуме. Особый интерес представляет так называемый «Чёрный камень» (Lapis Niger) — ​древнейший латинский эпиграфический памятник, связанный с ранним культом на форуме. Эти артефакты демонстрируют синтез местных традиций с этрусскими и греческими влияниями, заложивший осно&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/italiya-90f7f6720c9d4c2a96504c2e9d8cb0ac</guid><pubDate>Sat, 18 Jul 2026 22:47:11 +0000</pubDate></item><item><title>Agey Tomesh</title><link>https://mediiia.com/account/agey-tomesh-21024e242b3044eea3cffeffd9500c86</link><description>art.
+Раннеримское искусство засвидетельствовано скромными вотивными статуэтками и хижинами с геометрической керамикой, обнаруженными при раскопках на римском форуме. Особый интерес представляет так называемый «Чёрный камень» (Lapis Niger) — ​древнейший латинский эпиграфический памятник, связанный с ранним культом на форуме. Эти артефакты демонстрируют синтез местных традиций с этрусскими и греческими влияниями, заложивший осно&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/italiya-90f7f6720c9d4c2a96504c2e9d8cb0ac</guid><pubDate>Sat, 18 Jul 2026 23:51:04 +0000</pubDate></item><item><title>Agey Tomesh</title><link>https://mediiia.com/account/agey-tomesh-21024e242b3044eea3cffeffd9500c86</link><description>art.
 mediiia
 темы
 теги
@@ -673,7 +664,7 @@ EN
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/agey-tomesh-21024e242b3044eea3cffeffd9500c86</guid><pubDate>Sat, 18 Jul 2026 22:47:02 +0000</pubDate></item><item><title>Цветочный гороскоп
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/agey-tomesh-21024e242b3044eea3cffeffd9500c86</guid><pubDate>Sat, 18 Jul 2026 23:50:56 +0000</pubDate></item><item><title>Цветочный гороскоп
 18 июля. Незабудка основная
 Символы цветка: Смелость, энергия, творчество.
 Черты характера: Люди этого дня обладают живым умом и активной жизненной позицией.
@@ -752,7 +743,25 @@ media lab
 растения
 гороскоп. 18 июля
 Купить → постер
-0
+15
+
+Символы цветка: Смелость, энергия, творчество.
+
+
+
+
+Черты характера: Люди этого дня обладают живым умом и активной жизненной позицией. Они любят приключения и готовы к любым вызовам.
+
+Оформите заказ на интерьерный постер в премиальной или классической раме.
+
+Выбрать формат, бумагу и место печати — самостоятельно или через платформу.
+
+Изображение недоступно
+
+Выбрать другую дату
+
+О проекте
+
 18 июля. Незабудка основная
 Agey Tomesh
 о природе
@@ -766,8 +775,32 @@ media lab
 гороскоп. июль
 растения
 гороскоп. 18 июля
-0
+15
 Проект создан 08.07.2025
+Другие проекты c тегом
+о природе
+mediiia.com
+№BK 80410000
+GIRAFFES
+kit-kot.com
+Жирафы
+Дмитрий Скендеров
+20
+mediiia.com
+ARTZ.WORK ILLUSTRATION
+Dmitriy Skenderov
+Хорош Гусь!
+Дмитрий Скендеров
+24
+Летняя ландшафтная школа / A-house x Timeless
+Арина Арсеньева
+8
+№HH 14010000
+GALLLLERY COLLECTION
+mediiia.com
+Рыжий исполинский кенгуру
+Дмитрий Скендеров
+48
 mediiia
 deziiign
 artz work
@@ -782,7 +815,7 @@ kiiids.art
 юридические документы
 связаться с нами
 made by mediiia
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/nezabudka-osnovnaya-e064afabed1f43158604d9e18f056502</guid><pubDate>Sat, 18 Jul 2026 22:46:54 +0000</pubDate></item><item><title>Чемпионат мира 2026: Франция — Англия
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/nezabudka-osnovnaya-e064afabed1f43158604d9e18f056502</guid><pubDate>Sat, 18 Jul 2026 23:50:49 +0000</pubDate></item><item><title>Чемпионат мира 2026: Франция — Англия
 Global FTBL
 1</title><link>https://mediiia.com/project/chempionat-mira-2026-franciya-ispaniya-00982215e8c44ff883f1b8b1a3b75a87</link><description>mediiia
 темы
@@ -865,7 +898,7 @@ kiiids.art
 юридические документы
 связаться с нами
 made by mediiia
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/chempionat-mira-2026-franciya-ispaniya-00982215e8c44ff883f1b8b1a3b75a87</guid><pubDate>Sat, 18 Jul 2026 22:46:46 +0000</pubDate></item><item><title>2
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/chempionat-mira-2026-franciya-ispaniya-00982215e8c44ff883f1b8b1a3b75a87</guid><pubDate>Sat, 18 Jul 2026 23:50:41 +0000</pubDate></item><item><title>2
 18 июля
 Citatio</title><link>https://mediiia.com/project/18-iyulya-53193dce7d7b449e83c3b99305db3b0f</link><description>mediiia
 темы
@@ -979,7 +1012,7 @@ kiiids.art
 юридические документы
 связаться с нами
 made by mediiia
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/18-iyulya-53193dce7d7b449e83c3b99305db3b0f</guid><pubDate>Sat, 18 Jul 2026 22:46:39 +0000</pubDate></item><item><title>One hundred books you must watch</title><link>https://mediiia.com/account/one-hundred-books-you-must-watch-348c68ae53d44ce094391ef8b64d861d</link><description>mediiia
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/18-iyulya-53193dce7d7b449e83c3b99305db3b0f</guid><pubDate>Sat, 18 Jul 2026 23:50:33 +0000</pubDate></item><item><title>One hundred books you must watch</title><link>https://mediiia.com/account/one-hundred-books-you-must-watch-348c68ae53d44ce094391ef8b64d861d</link><description>mediiia
 темы
 теги
 резиденты
@@ -997,14 +1030,21 @@ RU
 EN
 Добавить проект
 Вход
-Загрузка...
+OY
+One hundred books you must watch
+deziiign
+проекты | 50
+менеджер юнитов | 1
+юниты | 2
+сортировка по
+актуальности
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше</description><content:encoded>&lt;p&gt;mediiia
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... П</description><content:encoded>&lt;p&gt;mediiia
 темы
 теги
 резиденты
@@ -1022,14 +1062,21 @@ RU
 EN
 Добавить проект
 Вход
-Загрузка...
+OY
+One hundred books you must watch
+deziiign
+проекты | 50
+менеджер юнитов | 1
+юниты | 2
+сортировка по
+актуальности
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/one-hundred-books-you-must-watch-348c68ae53d44ce094391ef8b64d861d</guid><pubDate>Sat, 18 Jul 2026 22:46:31 +0000</pubDate></item><item><title>Дэниэл Киз. «Цветы для Элджернона»
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/one-hundred-books-you-must-watch-348c68ae53d44ce094391ef8b64d861d</guid><pubDate>Sat, 18 Jul 2026 23:50:25 +0000</pubDate></item><item><title>Дэниэл Киз. «Цветы для Элджернона»
 One hundred books you must watch
 7</title><link>https://mediiia.com/project/deniel-kiz-cvety-dlya-eldzhernona-4f3e3e282eae4435bfbad63e7e72120c</link><description>mediiia
 темы
@@ -1061,14 +1108,13 @@ XX век
 1960-е
 1959
 1968
-0
-Дэниэл Киз. «Цветы для Элджернона»
-One hundred books you must watch
-о книге
-media lab
-one hundred books you must watch
-соединённые штаты америки
-</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2131/2054224a9db74752b1c5aa2825c67d4d/32b66d29f40143479b7c8d41fc8dce83450x632.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;mediiia
+7
+
+«Чарли»
+Режиссёр Ральф Нельсон, США, 1968.
+В ролях: Клифф Робертсон, Клэр Блум, Лилия Скала, Дик Ван Паттен и другие.
+
+Рассказ американского пис</description><content:encoded>&lt;img src="https://files.mediiia.ru/projectimages/2131/2054224a9db74752b1c5aa2825c67d4d/32b66d29f40143479b7c8d41fc8dce83450x632.jpg"&gt;&lt;br&gt;&lt;br&gt;&lt;p&gt;mediiia
 темы
 теги
 резиденты
@@ -1098,35 +1144,28 @@ XX век
 1960-е
 1959
 1968
-0
-Дэниэл Киз. «Цветы для Элджернона»
-One hundred books you must watch
-о книге
-media lab
-one hundred books you must watch
-соединённые штаты америки
-XX век
-1950-е
-1960-е
-1959
-1968
-0
-Проект создан 10.02.2026
-mediiia
-deziiign
-artz work
-fashion deziiign
-education
-startup incubator
-gallllery
-gallllery.art
-kiiids.art
-© ООО «БРНД-РУ» 2022-2026
-политика конфиденциальности
-юридические документы
-связаться с нами
-made by mediiia
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/deniel-kiz-cvety-dlya-eldzhernona-4f3e3e282eae4435bfbad63e7e72120c</guid><pubDate>Sat, 18 Jul 2026 22:46:24 +0000</pubDate></item><item><title>Вера Ильина</title><link>https://mediiia.com/account/spiriteddd</link><description>mediiia
+7
+
+«Чарли»
+Режиссёр Ральф Нельсон, США, 1968.
+В ролях: Клифф Робертсон, Клэр Блум, Лилия Скала, Дик Ван Паттен и другие.
+
+Рассказ американского писателя и филолога Дэниэла Киза появился в печати весной 1959 года на страницах узкожанрового издания — ​журнала Fantasy &amp; Science Fiction. Это не удивительно: Киз считался прежде всего фантастом, даром что всю свою жизнь преподавал художественную литературу в нескольких университетах. Однако «Цветы для Элджернона» — ​и сама повесть, и роман, который Киз на её основе написал в 1966‑м — ​определённо выдаются за стилистические рамки фантастического жанра ​даже в самом широком его понимании.
+
+Исходный размер 1920x1080
+Исходный размер 1887x816
+
+На самом деле фантастического в повести — ​всего лишь допущение о том, что интеллектуальная составляющая человеческого разума может быть усилена и даже улучшена путём медицинского хирургического вмешательства. Герой, 37‑летний (в романе его возраст снижен до 32‑х лет) уборщик Чарли Гордон учится в спецшколе для умственно отсталых. После успешной операции над мышью по кличке Элджернон, осуществленной двумя учёными, они решают провести аналогичное действие с человеком; им оказывается как раз Чарли. IQ уборщика стремительно взлетает до максимально высоких показаний — ​он легко справляется с изучением языков, читает сложную литературу и сам принимает решения касательно продолжения эксперимента…
+
+Исходный размер 1918x814
+Исходный размер 1918x814
+
+Однако проблематика рассказа, безусловно, не в этом. Главное в нём — ​взаимодействие Чарли с самим собой, окружающими его людьми и миром. Товарищи по работе, поначалу зло подшучивавшие над ним, начинают пугаться его выросшего интеллекта. И когда оказанный операцией эффект начинает стремительно откатываться на исходные позиции — ​сперва у мыши, потом у человека — ​Чарли Гордон не отчаивается, не злобится на профессоров, перевернувших его судьбу: он благодарен за то, что с ним произошло, и мечтает снова «старатца стать умным».
+
+Исходный размер 1920x810
+Исходный размер 1280x544
+
+И рассказ, и роман построены на прямой речи — ​они состоят из отчётов, которые Чарли пишет для учёных. Конечно, этот метод не мог быть взят на вооружение режиссёром Ральфом Нельсоном. Он пошёл традиционным путём, хотя снятый им фильм оказался для своего времени достаточно революционным. Сегодня зрителя ничуть не удивляет, когда актёры исполняют роли людей с особенностями развития, более того, ментально особенные люди есть и среди актёров — а в конце 1960‑х попытка сняться в роли человека с интеллектуальными отклонениями для актёра была более чем рискованной. Однако Клифф Робертсон рискнул; он даже выкупил права н&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/deniel-kiz-cvety-dlya-eldzhernona-4f3e3e282eae4435bfbad63e7e72120c</guid><pubDate>Sat, 18 Jul 2026 23:50:18 +0000</pubDate></item><item><title>Вера Ильина</title><link>https://mediiia.com/account/spiriteddd</link><description>mediiia
 темы
 теги
 резиденты
@@ -1176,7 +1215,7 @@ EN
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/spiriteddd</guid><pubDate>Sat, 18 Jul 2026 22:46:16 +0000</pubDate></item><item><title>1
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/spiriteddd</guid><pubDate>Sat, 18 Jul 2026 23:50:10 +0000</pubDate></item><item><title>1
 Путеводитель по главной фриковой улице столицы
 Китай-город глазами 11-летней
 Вера Ильина</title><link>https://mediiia.com/project/putevoditel-po-glavnoj-frikovoj-ulice-sto-1ff6dc42696a4354942e373af74b8995</link><description>mediiia
@@ -1260,7 +1299,7 @@ media lab
 
 Исходный размер 2082x1462
 
-У этой тусовки есть предки. В десятые своей молодёжь считала «Яму» — амфитеатр на Хохловской площади, бетонную чашу вокруг откопанного фундамента стены Белого города. На ступенях сидели с колонками и дешёвым алкоголем, играли на гитарах, знакомились и шумели до ночи, а окрестные жители строчили жалобы. Нынешние подростки застали район уже причёсанным: «Яму» окультурили, тусовка растеклась по с&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/putevoditel-po-glavnoj-frikovoj-ulice-sto-1ff6dc42696a4354942e373af74b8995</guid><pubDate>Sat, 18 Jul 2026 22:46:09 +0000</pubDate></item><item><title>Global FTBL</title><link>https://mediiia.com/account/global-ftbl-959f2db5498e47f091def302cf5b93b9</link><description>mediiia
+У этой тусовки есть предки. В десятые своей молодёжь считала «Яму» — амфитеатр на Хохловской площади, бетонную чашу вокруг откопанного фундамента стены Белого города. На ступенях сидели с колонками и дешёвым алкоголем, играли на гитарах, знакомились и шумели до ночи, а окрестные жители строчили жалобы. Нынешние подростки застали район уже причёсанным: «Яму» окультурили, тусовка растеклась по с&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/putevoditel-po-glavnoj-frikovoj-ulice-sto-1ff6dc42696a4354942e373af74b8995</guid><pubDate>Sat, 18 Jul 2026 23:50:02 +0000</pubDate></item><item><title>Global FTBL</title><link>https://mediiia.com/account/global-ftbl-959f2db5498e47f091def302cf5b93b9</link><description>mediiia
 темы
 теги
 резиденты
@@ -1278,11 +1317,7 @@ RU
 EN
 Добавить проект
 Вход
-Global FTBL
-проекты | 408
-юниты | 1
-сортировка по
-актуальности
+Загрузка...
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
@@ -1307,18 +1342,14 @@ RU
 EN
 Добавить проект
 Вход
-Global FTBL
-проекты | 408
-юниты | 1
-сортировка по
-актуальности
+Загрузка...
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/global-ftbl-959f2db5498e47f091def302cf5b93b9</guid><pubDate>Sat, 18 Jul 2026 22:46:00 +0000</pubDate></item><item><title>Чемпионат мира 2026: Испания — Аргентина
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/account/global-ftbl-959f2db5498e47f091def302cf5b93b9</guid><pubDate>Sat, 18 Jul 2026 23:49:54 +0000</pubDate></item><item><title>Чемпионат мира 2026: Испания — Аргентина
 Global FTBL
 1</title><link>https://mediiia.com/project/chempionat-mira-2026-ispaniya-argentina-ca58476e4ce14e28a41566e336921f6c</link><description>mediiia
 темы
@@ -1402,7 +1433,7 @@ kiiids.art
 юридические документы
 связаться с нами
 made by mediiia
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/chempionat-mira-2026-ispaniya-argentina-ca58476e4ce14e28a41566e336921f6c</guid><pubDate>Sat, 18 Jul 2026 22:45:53 +0000</pubDate></item><item><title>Связаться с нами</title><link>https://mediiia.com/teams/form/af6ef1f41df04e6cb58826682bc8284e</link><description>mediiia
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/project/chempionat-mira-2026-ispaniya-argentina-ca58476e4ce14e28a41566e336921f6c</guid><pubDate>Sat, 18 Jul 2026 23:49:46 +0000</pubDate></item><item><title>Связаться с нами</title><link>https://mediiia.com/teams/form/af6ef1f41df04e6cb58826682bc8284e</link><description>mediiia
 темы
 теги
 резиденты
@@ -1466,7 +1497,7 @@ EN
 связаться с нами
 made by mediiia
 ↗
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/teams/form/af6ef1f41df04e6cb58826682bc8284e</guid><pubDate>Sat, 18 Jul 2026 22:45:45 +0000</pubDate></item><item><title>образование</title><link>https://education.mediiia.com/?xref=mediiia.com&amp;session_id=6BD55mHg7DdsY7B0t8LJzwvF</link><description>education
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования. Более подробную информац... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://mediiia.com/teams/form/af6ef1f41df04e6cb58826682bc8284e</guid><pubDate>Sat, 18 Jul 2026 23:49:39 +0000</pubDate></item><item><title>образование</title><link>https://education.mediiia.com/?xref=mediiia.com&amp;session_id=V2UWHMfnu4X6Gh3wSjBj0gBL</link><description>education
 themes
 tags
 residents
@@ -1523,7 +1554,7 @@ legal documents
 contact us
 made by mediiia
 ↗
-We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://education.mediiia.com/?xref=mediiia.com&amp;session_id=6BD55mHg7DdsY7B0t8LJzwvF</guid><pubDate>Sat, 18 Jul 2026 22:45:38 +0000</pubDate></item><item><title>маркетплейс</title><link>https://shop.mediiia.com/art?page=1&amp;xref=mediiia.com&amp;session_id=6BD55mHg7DdsY7B0t8LJzwvF</link><description>art
+We use cookies to improve the operation of the website and to enhance its usability. More detailed information on the use of cookies can be fo... Show more&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://education.mediiia.com/?xref=mediiia.com&amp;session_id=V2UWHMfnu4X6Gh3wSjBj0gBL</guid><pubDate>Sat, 18 Jul 2026 23:49:32 +0000</pubDate></item><item><title>маркетплейс</title><link>https://shop.mediiia.com/art?page=1&amp;xref=mediiia.com&amp;session_id=V2UWHMfnu4X6Gh3wSjBj0gBL</link><description>art
 .mediiia
 темы
 теги
@@ -1540,7 +1571,12 @@ We use cookies to improve the operation of the website and to enhance its usabil
 RU
 EN
 Вход
+Маркетплейс с произведениями актуальных российских художников. Каждая работа
+сопровождается аутентичным цифровым сертификатом, подтверждающим владение
+уникальным авторским произведением.
 Фильтры
+Сортировка по
+популярности
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
@@ -1548,7 +1584,7 @@ EN
 made by mediiia
 ↗
 
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования... Показать больше</description><content:encoded>&lt;p&gt;art
+Мы используем файлы cookies для улуч</description><content:encoded>&lt;p&gt;art
 .mediiia
 темы
 теги
@@ -1565,7 +1601,12 @@ made by mediiia
 RU
 EN
 Вход
+Маркетплейс с произведениями актуальных российских художников. Каждая работа
+сопровождается аутентичным цифровым сертификатом, подтверждающим владение
+уникальным авторским произведением.
 Фильтры
+Сортировка по
+популярности
 © ООО «БРНД-РУ» 2022-2026
 политика конфиденциальности
 юридические документы
@@ -1573,4 +1614,4 @@ EN
 made by mediiia
 ↗
 
-Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://shop.mediiia.com/art?page=1&amp;xref=mediiia.com&amp;session_id=6BD55mHg7DdsY7B0t8LJzwvF</guid><pubDate>Sat, 18 Jul 2026 22:45:30 +0000</pubDate></item></channel></rss>
+Мы используем файлы cookies для улучшения работы сайта и большего удобства его использования... Показать больше&lt;/p&gt;</content:encoded><guid isPermaLink="false">https://shop.mediiia.com/art?page=1&amp;xref=mediiia.com&amp;session_id=V2UWHMfnu4X6Gh3wSjBj0gBL</guid><pubDate>Sat, 18 Jul 2026 23:49:24 +0000</pubDate></item></channel></rss>
